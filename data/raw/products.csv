@@ -1,0 +1,1001 @@
+product_id,product_name,category,price
+1,Speak,Sports,120.22
+2,Early,Sports,282.28
+3,Nice,Clothing,148.14
+4,Few,Electronics,679.93
+5,Source,Books,96.07
+6,Record,Beauty,41.46
+7,Walk,Electronics,226.45
+8,Often,Books,606.0
+9,Sea,Books,206.85
+10,Whole,Sports,704.31
+11,Same,Beauty,228.24
+12,Culture,Books,285.41
+13,Analysis,Toys,16.43
+14,Single,Toys,168.06
+15,Make,Beauty,346.85
+16,Center,Clothing,223.16
+17,First,Toys,343.23
+18,Policy,Electronics,386.13
+19,Thank,Home & Kitchen,849.02
+20,Bad,Books,271.88
+21,Throw,Electronics,732.43
+22,Top,Books,133.58
+23,Perhaps,Beauty,88.01
+24,And,Home & Kitchen,831.11
+25,Real,Books,886.6
+26,Wonder,Home & Kitchen,581.58
+27,Each,Sports,78.86
+28,Rock,Sports,235.62
+29,Customer,Home & Kitchen,985.37
+30,Truth,Toys,240.46
+31,Child,Electronics,386.32
+32,Exactly,Beauty,639.33
+33,Approach,Home & Kitchen,171.03
+34,Somebody,Home & Kitchen,217.41
+35,Forward,Home & Kitchen,704.8
+36,Similar,Sports,651.56
+37,Toward,Books,638.63
+38,Make,Books,731.84
+39,Bank,Clothing,467.64
+40,Loss,Home & Kitchen,989.63
+41,Religious,Sports,691.28
+42,Oil,Clothing,687.77
+43,Idea,Toys,770.63
+44,Seven,Electronics,236.76
+45,Message,Electronics,807.0
+46,Election,Beauty,275.06
+47,Least,Clothing,914.0
+48,Discussion,Books,877.6
+49,List,Home & Kitchen,220.5
+50,Machine,Beauty,401.68
+51,Hold,Sports,464.26
+52,Together,Home & Kitchen,148.23
+53,Act,Sports,565.75
+54,Realize,Home & Kitchen,749.54
+55,American,Beauty,898.84
+56,Machine,Beauty,368.38
+57,Old,Clothing,514.43
+58,Quality,Electronics,758.22
+59,Strong,Toys,118.55
+60,Letter,Sports,168.38
+61,Around,Sports,427.94
+62,Increase,Electronics,390.92
+63,Understand,Books,996.16
+64,Marriage,Books,258.9
+65,Weight,Books,862.17
+66,No,Electronics,683.48
+67,Spend,Electronics,684.89
+68,Almost,Books,753.37
+69,Worker,Toys,644.55
+70,Blue,Electronics,300.57
+71,Project,Clothing,459.19
+72,Magazine,Sports,877.09
+73,Can,Home & Kitchen,972.17
+74,Step,Toys,186.87
+75,Already,Electronics,871.81
+76,Exist,Home & Kitchen,843.25
+77,Lawyer,Books,612.88
+78,College,Clothing,380.17
+79,Everyone,Clothing,543.99
+80,Individual,Toys,923.21
+81,Current,Electronics,602.96
+82,Politics,Beauty,29.28
+83,Challenge,Home & Kitchen,879.93
+84,Ago,Toys,808.71
+85,Recently,Clothing,67.35
+86,Room,Books,947.48
+87,Movie,Electronics,734.59
+88,View,Toys,78.52
+89,Board,Toys,537.38
+90,Early,Clothing,137.11
+91,Listen,Beauty,947.38
+92,Hair,Clothing,272.41
+93,Ground,Toys,610.53
+94,Church,Clothing,929.62
+95,Laugh,Toys,732.63
+96,Special,Clothing,715.82
+97,Billion,Beauty,995.2
+98,Let,Sports,379.69
+99,Little,Books,456.97
+100,Under,Clothing,232.45
+101,Less,Home & Kitchen,30.82
+102,Simple,Books,237.81
+103,Have,Clothing,17.12
+104,Art,Sports,634.79
+105,Guy,Clothing,76.73
+106,Region,Electronics,861.04
+107,Couple,Electronics,519.01
+108,Billion,Home & Kitchen,672.29
+109,Price,Clothing,543.84
+110,Same,Sports,936.16
+111,Ahead,Books,580.45
+112,Executive,Clothing,786.77
+113,Write,Toys,412.99
+114,Condition,Electronics,105.96
+115,Administration,Beauty,360.75
+116,Floor,Beauty,472.35
+117,Church,Sports,63.63
+118,Detail,Sports,984.32
+119,How,Electronics,70.01
+120,Song,Sports,345.91
+121,Onto,Toys,118.18
+122,Why,Clothing,198.31
+123,Another,Beauty,148.78
+124,Wrong,Clothing,285.76
+125,Member,Clothing,875.74
+126,Her,Electronics,448.7
+127,Live,Toys,857.41
+128,Citizen,Electronics,60.08
+129,Under,Books,837.67
+130,Too,Electronics,927.1
+131,Return,Toys,244.02
+132,Night,Beauty,490.78
+133,Information,Clothing,866.0
+134,Every,Electronics,172.99
+135,Evidence,Electronics,985.46
+136,Same,Home & Kitchen,927.25
+137,Drop,Toys,460.46
+138,Politics,Beauty,699.63
+139,Life,Sports,995.47
+140,Debate,Books,665.25
+141,Strong,Beauty,163.25
+142,Pm,Home & Kitchen,225.52
+143,High,Electronics,583.39
+144,Letter,Books,70.35
+145,Sell,Home & Kitchen,66.59
+146,Receive,Books,482.02
+147,When,Toys,535.81
+148,Open,Electronics,961.17
+149,Many,Electronics,852.83
+150,Move,Electronics,599.08
+151,Those,Sports,863.2
+152,Fear,Beauty,128.69
+153,Movement,Books,253.75
+154,Moment,Books,49.34
+155,Culture,Electronics,425.03
+156,Team,Books,569.57
+157,Policy,Home & Kitchen,935.36
+158,Buy,Clothing,673.03
+159,Explain,Home & Kitchen,246.3
+160,Coach,Beauty,139.57
+161,Stock,Sports,307.0
+162,Single,Home & Kitchen,929.73
+163,Vote,Electronics,19.22
+164,Base,Books,998.47
+165,Energy,Electronics,82.53
+166,While,Clothing,510.83
+167,Entire,Clothing,933.93
+168,How,Electronics,880.48
+169,Unit,Home & Kitchen,292.14
+170,Feeling,Beauty,835.41
+171,Baby,Sports,309.49
+172,Candidate,Toys,657.44
+173,Say,Electronics,671.18
+174,Every,Books,306.38
+175,Product,Sports,112.55
+176,Local,Clothing,271.82
+177,Agency,Electronics,744.99
+178,Third,Clothing,279.62
+179,Station,Books,218.52
+180,Cultural,Home & Kitchen,211.56
+181,Visit,Sports,854.38
+182,Town,Books,493.65
+183,Forget,Toys,60.29
+184,Decision,Sports,429.34
+185,Skin,Home & Kitchen,53.65
+186,His,Home & Kitchen,773.41
+187,Career,Sports,980.0
+188,Economy,Clothing,743.82
+189,Us,Books,708.61
+190,Reason,Books,19.57
+191,Money,Electronics,945.6
+192,Create,Sports,904.89
+193,Early,Books,45.67
+194,Design,Home & Kitchen,586.68
+195,From,Clothing,435.49
+196,Camera,Electronics,315.18
+197,Treatment,Toys,972.47
+198,Today,Electronics,899.94
+199,Upon,Clothing,685.25
+200,Less,Sports,111.77
+201,Someone,Toys,564.28
+202,Mean,Toys,412.31
+203,Walk,Books,751.98
+204,Modern,Clothing,865.96
+205,Hit,Toys,812.66
+206,Evidence,Beauty,34.54
+207,Different,Sports,925.24
+208,But,Toys,931.51
+209,High,Toys,673.21
+210,West,Sports,812.64
+211,Bed,Home & Kitchen,167.61
+212,Body,Sports,117.01
+213,Quality,Toys,48.34
+214,Pattern,Beauty,230.21
+215,Billion,Toys,919.27
+216,Guy,Home & Kitchen,312.14
+217,Center,Toys,872.61
+218,Magazine,Clothing,33.43
+219,Risk,Clothing,404.48
+220,Suddenly,Home & Kitchen,865.71
+221,Result,Toys,286.33
+222,Plan,Sports,514.31
+223,Bring,Sports,981.34
+224,Late,Books,337.84
+225,Choose,Electronics,124.19
+226,Little,Home & Kitchen,186.78
+227,West,Home & Kitchen,47.87
+228,Wear,Books,440.22
+229,Pm,Sports,788.56
+230,Price,Beauty,610.15
+231,Every,Books,124.49
+232,Follow,Books,198.18
+233,International,Electronics,711.7
+234,Just,Electronics,524.72
+235,Other,Toys,543.07
+236,Central,Sports,940.86
+237,College,Sports,673.92
+238,Even,Home & Kitchen,436.98
+239,Perhaps,Sports,921.56
+240,Attack,Books,320.78
+241,Several,Toys,133.38
+242,Firm,Home & Kitchen,512.05
+243,Sort,Sports,414.31
+244,Early,Beauty,700.24
+245,Not,Books,136.01
+246,Machine,Beauty,668.28
+247,Picture,Beauty,680.54
+248,Including,Clothing,619.36
+249,Threat,Home & Kitchen,412.01
+250,Alone,Toys,10.4
+251,Just,Home & Kitchen,218.08
+252,Father,Toys,584.18
+253,Consider,Sports,329.03
+254,Quickly,Beauty,447.74
+255,Election,Clothing,516.06
+256,Marriage,Toys,902.17
+257,These,Toys,738.6
+258,Others,Sports,93.95
+259,Chance,Books,667.22
+260,Our,Books,341.84
+261,Performance,Toys,952.48
+262,Nature,Clothing,676.07
+263,Avoid,Clothing,808.5
+264,Trip,Clothing,34.18
+265,Knowledge,Clothing,984.1
+266,Teach,Books,851.24
+267,Development,Electronics,460.86
+268,Total,Sports,579.91
+269,Morning,Sports,699.39
+270,Water,Beauty,405.66
+271,Start,Clothing,659.5
+272,Party,Electronics,893.73
+273,Somebody,Toys,772.35
+274,Suddenly,Electronics,780.64
+275,Might,Clothing,184.13
+276,Why,Sports,522.78
+277,Throw,Electronics,561.83
+278,Model,Toys,130.15
+279,Others,Clothing,803.4
+280,Edge,Sports,535.82
+281,Kitchen,Books,599.5
+282,Couple,Toys,892.51
+283,Dog,Books,816.86
+284,Collection,Books,432.47
+285,Significant,Books,451.45
+286,Wall,Clothing,746.22
+287,Worry,Beauty,455.57
+288,Push,Toys,254.77
+289,Eight,Sports,284.54
+290,My,Toys,526.09
+291,Beat,Sports,246.85
+292,Page,Beauty,86.71
+293,Scientist,Home & Kitchen,242.15
+294,Skin,Home & Kitchen,326.51
+295,Entire,Books,89.77
+296,Phone,Clothing,238.95
+297,Job,Sports,161.28
+298,Central,Clothing,73.59
+299,Little,Beauty,337.57
+300,Young,Beauty,421.62
+301,Despite,Clothing,834.56
+302,Term,Beauty,905.79
+303,Wear,Books,946.6
+304,Visit,Electronics,858.16
+305,Current,Toys,579.93
+306,As,Beauty,15.84
+307,Data,Home & Kitchen,305.63
+308,Building,Beauty,854.91
+309,High,Toys,424.83
+310,Born,Sports,737.29
+311,Into,Toys,607.22
+312,Realize,Clothing,493.35
+313,Fear,Home & Kitchen,441.48
+314,Anyone,Electronics,394.97
+315,A,Sports,682.35
+316,Deep,Beauty,726.94
+317,Federal,Toys,472.72
+318,Institution,Clothing,980.91
+319,Last,Books,36.7
+320,Exist,Beauty,595.97
+321,Deep,Sports,36.83
+322,Sound,Sports,434.33
+323,Method,Toys,467.08
+324,Can,Electronics,267.55
+325,Beyond,Home & Kitchen,219.54
+326,Easy,Home & Kitchen,344.13
+327,Remember,Beauty,285.47
+328,Control,Toys,427.35
+329,Determine,Toys,91.09
+330,Watch,Electronics,751.53
+331,Every,Electronics,999.91
+332,Teach,Home & Kitchen,231.98
+333,Travel,Electronics,783.42
+334,Hundred,Sports,49.86
+335,Experience,Electronics,950.12
+336,Race,Clothing,840.84
+337,Thought,Books,160.86
+338,Sure,Clothing,478.83
+339,Religious,Electronics,568.33
+340,Improve,Clothing,470.38
+341,Something,Home & Kitchen,769.23
+342,Event,Clothing,609.83
+343,After,Sports,721.17
+344,Popular,Toys,821.11
+345,Congress,Home & Kitchen,117.02
+346,We,Electronics,929.6
+347,Approach,Books,680.57
+348,Culture,Beauty,402.69
+349,Operation,Sports,206.35
+350,Medical,Books,693.71
+351,Race,Sports,250.42
+352,Find,Sports,774.76
+353,Kid,Toys,687.42
+354,That,Toys,129.84
+355,Down,Books,784.81
+356,Deal,Home & Kitchen,537.42
+357,Town,Sports,376.87
+358,Behind,Books,651.07
+359,Skin,Electronics,851.08
+360,Prepare,Toys,495.3
+361,Left,Beauty,961.18
+362,Employee,Sports,892.66
+363,Meet,Beauty,710.24
+364,Issue,Beauty,184.38
+365,Station,Books,965.82
+366,Along,Home & Kitchen,619.75
+367,Campaign,Books,776.9
+368,Relationship,Beauty,441.22
+369,Improve,Sports,596.55
+370,Carry,Home & Kitchen,853.2
+371,Really,Toys,935.28
+372,Mission,Home & Kitchen,882.81
+373,Throw,Clothing,752.97
+374,Particularly,Books,614.23
+375,Sure,Beauty,343.03
+376,Much,Beauty,852.44
+377,Player,Clothing,492.67
+378,Tend,Home & Kitchen,799.85
+379,Part,Home & Kitchen,286.86
+380,Policy,Books,704.17
+381,Wide,Home & Kitchen,560.23
+382,Hotel,Books,948.58
+383,Away,Electronics,248.94
+384,Day,Beauty,493.69
+385,Everybody,Toys,247.92
+386,Yet,Beauty,649.44
+387,Various,Beauty,453.69
+388,Property,Electronics,102.12
+389,Best,Clothing,410.36
+390,My,Clothing,313.14
+391,Herself,Books,375.33
+392,Want,Books,535.61
+393,Guy,Beauty,996.67
+394,Walk,Books,337.48
+395,Effect,Sports,459.21
+396,Good,Home & Kitchen,258.89
+397,Create,Electronics,724.07
+398,Break,Home & Kitchen,128.36
+399,Ten,Books,951.37
+400,Clearly,Sports,193.3
+401,Reality,Clothing,741.22
+402,Quality,Home & Kitchen,727.34
+403,Car,Toys,529.39
+404,Commercial,Home & Kitchen,980.71
+405,Make,Toys,202.18
+406,Question,Clothing,367.27
+407,Nation,Home & Kitchen,24.01
+408,Sell,Books,135.32
+409,Left,Electronics,974.55
+410,Study,Books,299.22
+411,Energy,Clothing,641.49
+412,Form,Toys,495.97
+413,Crime,Toys,22.14
+414,Development,Home & Kitchen,474.7
+415,Entire,Beauty,347.3
+416,Glass,Electronics,259.95
+417,Six,Toys,482.95
+418,From,Toys,74.69
+419,Film,Beauty,83.34
+420,Begin,Sports,689.59
+421,Meet,Clothing,157.71
+422,Scientist,Books,949.63
+423,Modern,Electronics,993.98
+424,Indeed,Electronics,562.49
+425,Stock,Beauty,610.25
+426,Wrong,Toys,622.23
+427,Parent,Toys,527.35
+428,Drive,Beauty,909.42
+429,Point,Home & Kitchen,861.56
+430,Report,Beauty,312.33
+431,Bank,Books,69.63
+432,Various,Sports,108.24
+433,Child,Toys,215.71
+434,Election,Clothing,272.0
+435,Chair,Electronics,165.49
+436,Buy,Clothing,556.47
+437,Start,Clothing,12.65
+438,Hot,Beauty,692.48
+439,Measure,Beauty,298.35
+440,Truth,Clothing,295.22
+441,Include,Home & Kitchen,705.96
+442,Production,Beauty,80.47
+443,Bit,Clothing,924.67
+444,Why,Toys,793.34
+445,Party,Books,664.57
+446,Affect,Clothing,430.89
+447,Role,Books,232.56
+448,Professional,Clothing,909.33
+449,Role,Toys,150.81
+450,Every,Electronics,174.26
+451,Term,Home & Kitchen,599.09
+452,Sign,Toys,573.51
+453,Edge,Home & Kitchen,444.76
+454,Significant,Beauty,691.79
+455,Experience,Sports,408.48
+456,Yard,Home & Kitchen,505.47
+457,Light,Beauty,443.38
+458,Pressure,Books,49.46
+459,Scene,Beauty,737.19
+460,Other,Books,257.86
+461,Professional,Electronics,236.64
+462,Political,Sports,837.6
+463,Style,Books,591.25
+464,Majority,Electronics,999.58
+465,Whose,Sports,823.21
+466,Avoid,Books,49.83
+467,Study,Toys,183.44
+468,Among,Books,654.99
+469,Teacher,Home & Kitchen,189.67
+470,Us,Books,441.53
+471,Democrat,Toys,496.81
+472,Get,Electronics,475.31
+473,Woman,Beauty,339.98
+474,Enough,Sports,113.55
+475,Kitchen,Clothing,336.51
+476,Want,Sports,500.51
+477,View,Sports,945.74
+478,Instead,Toys,762.89
+479,Development,Electronics,460.28
+480,Adult,Home & Kitchen,259.87
+481,Red,Electronics,970.48
+482,Kitchen,Beauty,866.26
+483,Fact,Toys,988.24
+484,Right,Sports,870.67
+485,Phone,Beauty,419.12
+486,Spend,Clothing,523.25
+487,Forget,Books,758.88
+488,Probably,Sports,447.62
+489,Subject,Electronics,211.52
+490,Personal,Books,139.7
+491,What,Home & Kitchen,443.73
+492,Could,Sports,489.86
+493,Like,Electronics,973.42
+494,Control,Books,801.32
+495,Officer,Sports,166.79
+496,Better,Books,23.54
+497,Once,Beauty,102.28
+498,Certain,Toys,913.8
+499,Do,Beauty,947.59
+500,As,Sports,833.82
+501,Century,Beauty,933.33
+502,Close,Home & Kitchen,513.78
+503,Message,Home & Kitchen,421.34
+504,Level,Beauty,980.44
+505,Life,Clothing,462.22
+506,Travel,Clothing,389.75
+507,Recent,Books,513.16
+508,Better,Clothing,865.39
+509,Carry,Home & Kitchen,774.95
+510,After,Toys,420.79
+511,Religious,Toys,512.66
+512,Property,Toys,12.54
+513,By,Sports,305.57
+514,How,Books,584.12
+515,Research,Sports,494.74
+516,Machine,Clothing,452.08
+517,South,Beauty,351.67
+518,Throw,Books,765.24
+519,Current,Beauty,460.79
+520,Media,Home & Kitchen,870.91
+521,Friend,Sports,246.42
+522,Amount,Beauty,241.23
+523,Everyone,Toys,416.67
+524,Six,Home & Kitchen,747.26
+525,Box,Sports,914.3
+526,Leave,Beauty,392.22
+527,Information,Sports,794.47
+528,Accept,Sports,981.01
+529,Decade,Beauty,965.18
+530,Test,Clothing,507.27
+531,Common,Books,338.67
+532,Yeah,Electronics,875.45
+533,Couple,Beauty,108.71
+534,It,Beauty,25.19
+535,Mission,Clothing,415.88
+536,That,Sports,970.26
+537,Matter,Electronics,474.8
+538,Meeting,Home & Kitchen,345.18
+539,Institution,Sports,403.51
+540,Figure,Electronics,853.25
+541,Hundred,Toys,677.61
+542,Spring,Books,386.21
+543,Product,Home & Kitchen,630.53
+544,Relate,Toys,493.07
+545,International,Books,45.54
+546,Whatever,Electronics,242.42
+547,Final,Sports,921.72
+548,Many,Clothing,749.3
+549,Environmental,Beauty,978.55
+550,Including,Toys,637.41
+551,Town,Toys,109.5
+552,Yet,Clothing,697.06
+553,Protect,Electronics,55.53
+554,Soldier,Toys,65.56
+555,Home,Home & Kitchen,381.09
+556,Size,Clothing,251.76
+557,Generation,Beauty,570.27
+558,House,Toys,188.26
+559,First,Clothing,88.18
+560,Near,Toys,388.72
+561,New,Sports,248.42
+562,Course,Books,151.69
+563,Probably,Beauty,641.53
+564,Wish,Beauty,262.77
+565,Start,Electronics,899.92
+566,Over,Beauty,902.2
+567,Brother,Sports,551.13
+568,Hear,Electronics,447.31
+569,Far,Home & Kitchen,987.78
+570,Growth,Home & Kitchen,642.55
+571,Let,Beauty,693.41
+572,Plant,Beauty,846.85
+573,Again,Clothing,999.38
+574,Trip,Toys,488.38
+575,Campaign,Clothing,387.55
+576,Close,Home & Kitchen,579.06
+577,Week,Sports,302.28
+578,Necessary,Toys,661.65
+579,Perform,Home & Kitchen,18.02
+580,Democratic,Toys,688.94
+581,Hair,Sports,973.87
+582,Feeling,Books,747.72
+583,Natural,Toys,905.11
+584,Sign,Home & Kitchen,777.98
+585,Beautiful,Clothing,610.99
+586,Per,Home & Kitchen,226.81
+587,City,Clothing,624.68
+588,Performance,Sports,758.02
+589,Common,Toys,662.59
+590,Look,Toys,145.41
+591,Somebody,Electronics,904.37
+592,There,Sports,49.03
+593,Plant,Toys,446.41
+594,Account,Books,371.21
+595,Middle,Clothing,99.23
+596,Black,Home & Kitchen,333.45
+597,Almost,Beauty,183.88
+598,Foreign,Clothing,788.65
+599,Third,Home & Kitchen,535.54
+600,Theory,Home & Kitchen,832.17
+601,Throw,Home & Kitchen,914.91
+602,Base,Beauty,967.71
+603,Out,Home & Kitchen,749.09
+604,Author,Home & Kitchen,806.19
+605,Believe,Beauty,963.26
+606,Similar,Clothing,756.61
+607,Simply,Clothing,861.54
+608,Around,Sports,677.66
+609,Music,Beauty,967.6
+610,Culture,Toys,561.74
+611,Idea,Electronics,792.78
+612,Our,Electronics,271.81
+613,Two,Electronics,460.24
+614,Factor,Sports,751.52
+615,Sell,Home & Kitchen,588.71
+616,Age,Toys,642.16
+617,Stuff,Home & Kitchen,117.26
+618,Say,Clothing,476.76
+619,Visit,Books,885.39
+620,Husband,Books,334.73
+621,Another,Books,229.15
+622,Single,Electronics,639.05
+623,Occur,Beauty,910.29
+624,Job,Home & Kitchen,652.75
+625,Movement,Electronics,148.38
+626,Size,Electronics,311.32
+627,Role,Beauty,124.96
+628,Eat,Clothing,888.39
+629,Mention,Clothing,394.76
+630,Quickly,Home & Kitchen,673.78
+631,Cause,Sports,699.52
+632,Respond,Books,424.94
+633,Wait,Sports,729.33
+634,After,Beauty,658.37
+635,Able,Toys,494.45
+636,Outside,Beauty,939.66
+637,Money,Home & Kitchen,42.39
+638,Threat,Home & Kitchen,225.1
+639,Population,Beauty,951.05
+640,Notice,Toys,369.06
+641,History,Sports,373.66
+642,Mission,Sports,365.09
+643,Factor,Beauty,283.12
+644,Soldier,Electronics,949.52
+645,Capital,Toys,460.17
+646,Can,Sports,219.98
+647,Yet,Sports,601.17
+648,Suddenly,Electronics,60.07
+649,Reach,Home & Kitchen,251.13
+650,Institution,Clothing,789.11
+651,Allow,Clothing,77.92
+652,Character,Toys,558.67
+653,Region,Books,223.79
+654,Up,Toys,240.67
+655,Plan,Toys,156.08
+656,Person,Books,12.81
+657,Light,Toys,984.19
+658,Magazine,Clothing,544.81
+659,Strong,Toys,182.75
+660,Near,Sports,867.78
+661,Which,Clothing,24.71
+662,Likely,Toys,790.55
+663,Police,Books,330.53
+664,Far,Clothing,272.71
+665,Computer,Clothing,744.3
+666,List,Books,122.51
+667,Simply,Electronics,481.48
+668,Couple,Toys,368.42
+669,Help,Books,117.96
+670,Common,Books,229.33
+671,Check,Books,52.93
+672,Feeling,Toys,909.66
+673,Top,Sports,526.24
+674,Process,Beauty,646.91
+675,Season,Electronics,70.22
+676,Six,Beauty,848.83
+677,Forget,Beauty,689.24
+678,Seem,Beauty,715.28
+679,Notice,Beauty,82.76
+680,Represent,Electronics,328.89
+681,Item,Clothing,75.03
+682,About,Home & Kitchen,628.07
+683,Energy,Books,552.87
+684,Interview,Home & Kitchen,387.1
+685,Store,Books,535.25
+686,Hard,Beauty,510.5
+687,Study,Beauty,108.19
+688,Man,Sports,123.27
+689,Admit,Sports,654.41
+690,Himself,Toys,555.82
+691,Local,Toys,222.87
+692,Surface,Beauty,889.21
+693,Himself,Beauty,345.54
+694,Movement,Beauty,404.74
+695,Audience,Sports,104.13
+696,Board,Beauty,319.4
+697,Throw,Home & Kitchen,380.56
+698,That,Clothing,689.95
+699,College,Beauty,76.46
+700,Available,Toys,94.51
+701,Nation,Beauty,105.6
+702,Fight,Sports,378.92
+703,Information,Clothing,560.81
+704,Sport,Books,957.06
+705,Discussion,Books,336.35
+706,Thousand,Electronics,416.7
+707,Way,Toys,668.69
+708,Interest,Toys,428.71
+709,Outside,Sports,60.93
+710,Break,Home & Kitchen,604.41
+711,Baby,Home & Kitchen,112.56
+712,Skin,Books,220.61
+713,Space,Sports,487.37
+714,Voice,Toys,117.14
+715,Building,Toys,560.7
+716,Along,Electronics,764.98
+717,Enter,Books,233.9
+718,Push,Beauty,846.7
+719,Finally,Toys,820.24
+720,Form,Books,678.23
+721,Reflect,Books,35.99
+722,Care,Sports,831.17
+723,Couple,Home & Kitchen,38.66
+724,Person,Home & Kitchen,705.67
+725,Sometimes,Home & Kitchen,922.32
+726,Able,Home & Kitchen,16.04
+727,Into,Toys,151.82
+728,Beat,Sports,406.78
+729,Today,Clothing,743.56
+730,Phone,Electronics,100.84
+731,Instead,Books,222.98
+732,Four,Beauty,459.11
+733,Although,Clothing,376.35
+734,Father,Sports,331.14
+735,Scientist,Books,600.26
+736,Heavy,Electronics,164.02
+737,Age,Toys,621.66
+738,Pressure,Sports,90.77
+739,Once,Beauty,665.32
+740,Debate,Beauty,611.01
+741,Respond,Beauty,280.44
+742,While,Toys,517.22
+743,College,Home & Kitchen,435.61
+744,Learn,Home & Kitchen,681.44
+745,Nice,Books,491.77
+746,Clear,Sports,315.34
+747,Consumer,Clothing,401.31
+748,Poor,Books,64.23
+749,Already,Clothing,308.41
+750,So,Clothing,769.68
+751,Leader,Toys,262.96
+752,Land,Home & Kitchen,128.78
+753,Number,Beauty,749.54
+754,Bar,Clothing,137.89
+755,Specific,Books,706.63
+756,Front,Books,563.14
+757,Left,Sports,808.14
+758,Challenge,Electronics,403.1
+759,Religious,Sports,51.88
+760,Watch,Electronics,465.16
+761,For,Electronics,863.49
+762,Citizen,Books,434.99
+763,Force,Beauty,712.4
+764,Congress,Beauty,296.62
+765,You,Beauty,30.65
+766,Something,Home & Kitchen,180.15
+767,Choose,Books,465.5
+768,Beyond,Sports,920.57
+769,Include,Electronics,442.34
+770,Production,Electronics,250.88
+771,Enter,Books,406.45
+772,Type,Electronics,401.81
+773,Catch,Home & Kitchen,748.35
+774,Long,Clothing,339.74
+775,Interesting,Clothing,85.62
+776,Beautiful,Sports,122.89
+777,Man,Books,201.96
+778,The,Toys,355.88
+779,Support,Sports,958.64
+780,Provide,Sports,816.89
+781,Debate,Clothing,111.78
+782,Those,Home & Kitchen,205.3
+783,Side,Books,161.34
+784,Shake,Toys,658.95
+785,High,Clothing,951.78
+786,Election,Sports,499.18
+787,Gas,Toys,568.1
+788,Trial,Books,454.42
+789,Begin,Books,646.56
+790,Somebody,Books,329.98
+791,Near,Sports,322.98
+792,Whose,Beauty,77.6
+793,End,Beauty,635.07
+794,Collection,Toys,281.93
+795,Security,Electronics,358.42
+796,Commercial,Electronics,317.3
+797,Drop,Beauty,47.23
+798,Stand,Home & Kitchen,833.38
+799,Compare,Electronics,648.22
+800,Specific,Toys,99.39
+801,Including,Books,512.0
+802,Present,Beauty,584.53
+803,Speak,Toys,741.53
+804,Cause,Electronics,455.24
+805,Look,Toys,575.94
+806,Day,Clothing,328.31
+807,Certain,Beauty,506.35
+808,Site,Electronics,456.02
+809,Order,Toys,900.14
+810,Various,Home & Kitchen,982.56
+811,Here,Electronics,509.5
+812,Soon,Clothing,48.75
+813,Leg,Sports,443.38
+814,He,Beauty,528.83
+815,Where,Books,167.16
+816,Minute,Home & Kitchen,918.76
+817,Sound,Beauty,414.68
+818,Wind,Home & Kitchen,682.11
+819,Suddenly,Electronics,791.33
+820,Successful,Sports,341.3
+821,Eye,Home & Kitchen,103.56
+822,Little,Sports,392.7
+823,Should,Home & Kitchen,726.5
+824,Important,Sports,964.77
+825,Someone,Books,874.55
+826,Paper,Home & Kitchen,90.69
+827,Administration,Sports,150.01
+828,Rock,Home & Kitchen,317.13
+829,Present,Sports,701.5
+830,Simple,Beauty,137.66
+831,North,Sports,938.62
+832,Human,Home & Kitchen,563.33
+833,Try,Sports,793.75
+834,Brother,Toys,136.52
+835,Her,Sports,830.67
+836,Hope,Sports,997.19
+837,Officer,Books,102.52
+838,Amount,Sports,429.17
+839,Party,Home & Kitchen,28.05
+840,What,Home & Kitchen,188.46
+841,High,Clothing,348.32
+842,Fast,Toys,491.41
+843,Reality,Clothing,999.98
+844,Answer,Clothing,86.39
+845,Test,Toys,790.24
+846,Hot,Books,773.17
+847,Mr,Toys,741.26
+848,Raise,Books,47.37
+849,Player,Home & Kitchen,877.63
+850,Rich,Books,139.74
+851,Hotel,Beauty,162.71
+852,Member,Clothing,833.03
+853,Almost,Toys,628.49
+854,Power,Clothing,723.97
+855,Piece,Electronics,416.75
+856,Prepare,Sports,722.39
+857,Student,Beauty,614.49
+858,Task,Toys,751.05
+859,Sort,Beauty,241.66
+860,Fish,Clothing,316.37
+861,Return,Toys,786.53
+862,Appear,Toys,202.08
+863,Professor,Sports,947.66
+864,Great,Beauty,467.06
+865,Draw,Home & Kitchen,780.34
+866,Before,Books,532.19
+867,She,Clothing,818.72
+868,School,Toys,608.62
+869,Option,Toys,257.5
+870,Through,Sports,485.78
+871,Three,Home & Kitchen,559.0
+872,Religious,Electronics,714.29
+873,Hotel,Books,852.65
+874,Face,Home & Kitchen,93.04
+875,Body,Clothing,280.06
+876,Would,Books,155.88
+877,Leg,Beauty,100.8
+878,Really,Clothing,818.54
+879,Responsibility,Home & Kitchen,931.17
+880,Writer,Beauty,62.72
+881,Camera,Books,380.22
+882,Civil,Beauty,994.58
+883,Continue,Home & Kitchen,232.29
+884,Lose,Home & Kitchen,931.52
+885,Memory,Toys,717.56
+886,Identify,Home & Kitchen,793.47
+887,Continue,Clothing,47.92
+888,White,Toys,477.73
+889,High,Toys,147.4
+890,Team,Sports,474.42
+891,Special,Books,15.2
+892,Approach,Electronics,28.81
+893,Fine,Clothing,836.61
+894,Open,Books,940.82
+895,We,Books,532.49
+896,Relate,Electronics,778.41
+897,Way,Clothing,308.14
+898,Call,Electronics,246.06
+899,Positive,Sports,795.96
+900,Support,Beauty,72.18
+901,Whole,Toys,906.1
+902,Nation,Books,540.69
+903,Collection,Sports,520.22
+904,Region,Clothing,721.36
+905,Beyond,Home & Kitchen,434.95
+906,Return,Books,359.29
+907,Son,Books,422.4
+908,Onto,Sports,671.53
+909,Four,Books,974.91
+910,Everybody,Electronics,953.87
+911,Drive,Books,512.25
+912,Everything,Books,558.61
+913,Tree,Beauty,874.6
+914,Position,Electronics,639.31
+915,Standard,Home & Kitchen,261.11
+916,Performance,Electronics,363.52
+917,Probably,Electronics,351.35
+918,Probably,Sports,660.53
+919,Plan,Electronics,773.79
+920,Include,Sports,759.11
+921,Nice,Clothing,53.89
+922,Citizen,Books,345.16
+923,Four,Sports,183.34
+924,Student,Toys,687.84
+925,Condition,Sports,483.75
+926,Above,Clothing,813.38
+927,Enough,Electronics,718.88
+928,Loss,Beauty,46.61
+929,Here,Clothing,53.37
+930,Student,Clothing,886.93
+931,Notice,Home & Kitchen,934.04
+932,Feeling,Books,404.24
+933,Us,Toys,547.6
+934,Visit,Home & Kitchen,46.25
+935,Doctor,Sports,199.19
+936,Forward,Home & Kitchen,863.52
+937,Or,Electronics,867.14
+938,Spring,Home & Kitchen,280.48
+939,Ok,Toys,374.34
+940,Training,Beauty,745.87
+941,Partner,Beauty,345.65
+942,Feel,Clothing,501.24
+943,Minute,Beauty,373.67
+944,Attorney,Toys,524.08
+945,Claim,Toys,91.79
+946,Keep,Beauty,88.14
+947,Beautiful,Books,995.15
+948,Finally,Clothing,550.02
+949,Itself,Home & Kitchen,111.57
+950,Year,Home & Kitchen,664.31
+951,Leave,Home & Kitchen,451.46
+952,Suggest,Sports,431.85
+953,Industry,Sports,449.47
+954,Able,Beauty,51.93
+955,Never,Toys,912.49
+956,Recent,Books,998.17
+957,Suggest,Home & Kitchen,643.07
+958,Carry,Toys,948.43
+959,Worker,Electronics,674.47
+960,Image,Beauty,369.68
+961,Style,Toys,752.4
+962,Suffer,Clothing,953.26
+963,Another,Clothing,850.18
+964,One,Sports,783.5
+965,Box,Electronics,134.97
+966,Attorney,Clothing,780.73
+967,Once,Home & Kitchen,368.53
+968,World,Books,42.06
+969,Attack,Clothing,682.27
+970,Ground,Home & Kitchen,378.29
+971,Deal,Toys,86.12
+972,Country,Clothing,534.17
+973,Form,Beauty,321.24
+974,Crime,Home & Kitchen,257.12
+975,Return,Electronics,35.65
+976,Across,Clothing,504.05
+977,Day,Beauty,914.41
+978,Ever,Electronics,269.16
+979,Turn,Home & Kitchen,707.0
+980,Notice,Clothing,996.4
+981,Interesting,Home & Kitchen,697.04
+982,Drop,Beauty,208.18
+983,Like,Clothing,854.3
+984,Dinner,Beauty,180.93
+985,Surface,Sports,450.66
+986,Back,Electronics,812.41
+987,Whole,Toys,986.71
+988,Do,Sports,353.95
+989,Great,Electronics,554.5
+990,Body,Home & Kitchen,892.42
+991,Inside,Toys,165.93
+992,Down,Sports,928.05
+993,Dream,Sports,182.35
+994,Wind,Home & Kitchen,513.67
+995,Arm,Electronics,985.28
+996,Situation,Toys,147.49
+997,Field,Toys,499.08
+998,Quickly,Home & Kitchen,558.48
+999,Yet,Home & Kitchen,472.73
+1000,Require,Books,138.47

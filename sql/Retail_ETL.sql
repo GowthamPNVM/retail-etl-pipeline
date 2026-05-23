@@ -27,7 +27,7 @@ CREATE TABLE IF NOT EXISTS products(
  CREATE TABLE IF NOT EXISTS orders(
     order_id int(11) primary key AUTO_INCREMENT,
     customer_id int(11),
-	 order_date date NOT NULL,
+	order_date date NOT NULL,
     amount float(10) NOT NULL
 );
 CREATE TABLE IF NOT EXISTS sales(
