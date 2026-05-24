@@ -16,7 +16,7 @@ CREATE TABLE IF NOT EXISTS customers(
     created_by varchar(100) NOT NULL DEFAULT 'ADMIN',
     updated_date  DATETIME DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
     updated_by varchar(100) NOT NULL DEFAULT 'ADMIN',
-	 active_status tinyint (1) NOT NULL DEFAULT 1
+	active_status tinyint (1) NOT NULL DEFAULT 1
 ); 
 CREATE TABLE IF NOT EXISTS products(
     product_id int(11) Primary key AUTO_INCREMENT,
@@ -38,3 +38,13 @@ CREATE TABLE IF NOT EXISTS sales(
     sale_amount float(10) NOT NULL,
     last_updated DATETIME DEFAULT CURRENT_TIMESTAMP
 )
+
+create table IF NOT EXISTS retail_etl.etl_metadata(
+							#metadata_id INT(11) Primary key AUTO_INCREMENT,
+                            table_name VARCHAR(100) primary key,
+                            last_loaded_date datetime);
+
+ALTER TABLE products ADD added_date DATETIME DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP;
+		ALTER TABLE products ADD added_by  varchar(100) NOT NULL DEFAULT 'ADMIN';
+		ALTER TABLE orders ADD added_date DATETIME DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP;
+		ALTER TABLE orders ADD added_by  varchar(100) NOT NULL DEFAULT 'ADMIN';

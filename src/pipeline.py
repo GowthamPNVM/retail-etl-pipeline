@@ -2,7 +2,7 @@ from extract import extract_csv
 from utils import setup_logger
 from transform import transformCustomersData,transformOrdersData,transformProductsData,transformSalesData
 from load import createConnection,load_data
-
+from incremental import get_last_loaded_date,update_last_loaded_date,filter_incremental_data
 logger =setup_logger()
 
 def main():
@@ -18,7 +18,7 @@ def main():
         sales_df = extract_csv("data/raw/sales.csv",["sale_id","order_id","product_id","quantity","sale_amount"])
         logger.info(f"Sales Data Piped :{len(sales_df )} rows")
         logger.info("Extraction of Data Ended")
-        print("Transformation Data Started")
+        #print("Transformation Data Started")
         logger.info(f"Transform Data Started")
         transformed_customers_df = transformCustomersData(customers_df)
         logger.info(f"Transformed Customers Data :{len(transformed_customers_df)} rows")
@@ -29,22 +29,42 @@ def main():
         transform_sales_df = transformSalesData(sales_df)
         logger.info(f"Transformed Sales Data :{len(transform_sales_df )} rows")
         logger.info("Transform Data Ended")
-        print("Transformation Data Ended")
+        #print("Transformation Data Ended")
         
         logger.info(f"Creating the DB Connection")
         connection = createConnection()
-        print("Loading of Transformed Data Started")
+        #print("Loading of Transformed Data Started")
         logger.info(f"Loading of Data Started")
+        GetCustomersLastLoadedDate = get_last_loaded_date("customers",connection)
+        transformed_customers_df = filter_incremental_data(transformed_customers_df,"updated_date",GetCustomersLastLoadedDate)
+        logger.info(f"Filtered Customers Data for Incremental Load :{len(transformed_customers_df)} rows")
         load_data(transformed_customers_df,"customers",connection)
         logger.info(f"Loaded Customers Data :{len(transformed_customers_df)} rows")
+        update_last_loaded_date("customers",connection)
+        logger.info(f"Updated last loaded date for customers table")
+        GetProductsLastLoadedDate = get_last_loaded_date("products",connection)
+        transformed_products_df = filter_incremental_data(transformed_products_df,"added_date",GetProductsLastLoadedDate)
+        logger.info(f"Filtered Products Data for Incremental Load :{len(transformed_products_df)} rows")
         load_data(transformed_products_df,"products",connection)
         logger.info(f"Loaded Products Data :{len(transformed_products_df)} rows")
+        update_last_loaded_date("products",connection)
+        logger.info(f"Updated last loaded date for products table")
+        GetOrdersLastLoadedDate = get_last_loaded_date("orders",connection)
+        transformed_orders_df = filter_incremental_data(transformed_orders_df,"added_date",GetOrdersLastLoadedDate)
+        logger.info(f"Filtered Orders Data for Incremental Load :{len(transformed_orders_df)} rows")
         load_data(transformed_orders_df,"orders",connection)
         logger.info(f"Loaded Orders Data :{len(transformed_orders_df)} rows")
-        load_data(transform_sales_df,"sales",connection)
-        logger.info(f"Loaded Sales Data :{len(transform_sales_df )} rows")
+        update_last_loaded_date("orders",connection)
+        logger.info(f"Updated last loaded date for orders table")
+        GetSalesLastLoadedDate = get_last_loaded_date("sales",connection)
+        transformed_sales_df = filter_incremental_data(transform_sales_df,"last_updated",GetSalesLastLoadedDate)
+        logger.info(f"Filtered Sales Data for Incremental Load :{len(transformed_sales_df)} rows")
+        load_data(transformed_sales_df,"sales",connection)
+        logger.info(f"Loaded Sales Data :{len(transformed_sales_df )} rows")
+        update_last_loaded_date("sales",connection)
+        logger.info(f"Updated last loaded date for sales table")
         logger.info("Loading of Data Ended")
-        print("Loading of Transformed Data Ended")
+        #print("Loading of Transformed Data Ended")
         
         print("ETL Pipeline Ended")
 

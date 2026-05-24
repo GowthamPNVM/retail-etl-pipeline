@@ -28,17 +28,17 @@ def load_data(df,tableName,connection):
             #insert Query
             insertQry = f"Insert INTO {tableName} ({columns}) values ({placeholders})"
             
-            print(insertQry)
+            #print(insertQry)
             
             #Database Friendly Tuples
             data = list(df.itertuples(index=False,name=None))
             cursor.executemany(insertQry,data)        
             connection.commit()
-            print(f"Load Sucessfully {tableName}")
+            #print(f"Load Sucessfully {tableName}")
         except Exception as e:
-            print(f"Exception raised for {tableName} of {str(e)}")
+            #print(f"Exception raised for {tableName} of {str(e)}")
         finally:
-            print(f"Cursor Closed Successfully")
+            #print(f"Cursor Closed Successfully")
             cursor.close()
 """
 """Enhanced load_data function with:batch processing, dynamic datetime handling, and connection health checks"""
@@ -46,7 +46,7 @@ def load_data(df,tableName,connection):
 def load_data(df, tableName, connection, batch_size=2000):    
     # 1. Health Check: Reconnect if the connection dropped before this table started
     if not connection.is_connected():
-        print(f"Connection lost before loading {tableName}. Reconnecting...")
+        #print(f"Connection lost before loading {tableName}. Reconnecting...")
         connection.reconnect(attempts=3, delay=2)
         
     cursor = connection.cursor()
@@ -56,7 +56,7 @@ def load_data(df, tableName, connection, batch_size=2000):
         columns = ",".join(df.columns)       
         placeholders = ",".join(["%s"] * len(df.columns))
         insertQry = f"INSERT INTO {tableName} ({columns}) VALUES ({placeholders})"
-        print(insertQry)
+        #print(insertQry)
         
         # 3. Dynamic Datetime Formatting
         # Automatically finds and converts any timestamp/datetime columns to strings
@@ -70,18 +70,18 @@ def load_data(df, tableName, connection, batch_size=2000):
         
         # 4. Chunked Batch Insertion to prevent Error 10054
         total_rows = len(data)
-        print(f"Starting load for {tableName}: {total_rows} total rows.")
+        #print(f"Starting load for {tableName}: {total_rows} total rows.")
         
         for i in range(0, total_rows, batch_size):
             chunk = data[i : i + batch_size]
             cursor.executemany(insertQry, chunk)
             connection.commit()  # Save progress per batch
             
-        print(f"Load Successfully {tableName}")
+        #print(f"Load Successfully {tableName}")
         
     except Exception as e:
         connection.rollback()  # Undo the current failed chunk if an error occurs
         print(f"Exception raised for {tableName} of {str(e)}")
     finally:
-        print(f"Cursor Closed Successfully")
+        #print(f"Cursor Closed Successfully")
         cursor.close()

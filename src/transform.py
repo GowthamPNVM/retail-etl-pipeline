@@ -26,11 +26,19 @@ def transformProductsData(df):
     df =df.drop_duplicates()
 
     #Remove Invalid Prices
-    df=df[df['price'] > 0]
-    
+    df = df[df['price'] > 0]
     #Standardize Categories
-    df["category"]=df["category"].str.title()
+    df["category"] = df["category"].str.title()
+    
+    #Convert DateTime
+    # 1. Convert the column to actual datetime objects
+    df["added_date"] = pd.to_datetime(df["added_date"])
+    # 2. Now you can safely convert it for MySQL
+    df["added_date"] = df["added_date"].dt.to_pydatetime()
 
+    # Convert all NaN values to None (converts to NULL in the database)
+    df = df.where(pd.notnull(df), None)
+    print(len(df))
     return df
 
 def transformOrdersData(df):
@@ -41,7 +49,7 @@ def transformOrdersData(df):
     
     # 1. Convert the column to actual datetime objects
     df["order_date"] = pd.to_datetime(df["order_date"]).dt.date;
-    print(df["order_date"])
+    #print(df["order_date"])
     # 2. Now you can safely convert it for MySQL
     #df["order_date"] = df["order_date"].dt.to_pydatetime()
 
@@ -60,7 +68,7 @@ def transformOrdersData(df):
     # convert order_date
     df['order_date'] = pd.to_datetime(df['order_date'])
     # Add orders month
-    #print(df['order_date'])
+    ##print(df['order_date'])
     df['order_month'] = df['order_date'].dt.month
 
     # Add order Year
@@ -68,12 +76,15 @@ def transformOrdersData(df):
     # 2. Now you can safely convert it for MySQL
     df['order_date'] = df['order_date'].dt.to_pydatetime()
     
-
     
     # remove invalid amounts
     df = df[df['amount'] > 0]
 
-    
+    #Convert DateTime
+    # 1. Convert the column to actual datetime objects
+    df["added_date"]=pd.to_datetime(df["added_date"])
+    # 2. Now you can safely convert it for MySQL
+    df["added_date"] = df["added_date"].dt.to_pydatetime()
     
     # Select final columns
     """
@@ -86,7 +97,7 @@ def transformOrdersData(df):
             "amount"
         ]
     ]
-    print(df)
+    #print(df)
     """
     return df
     

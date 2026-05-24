@@ -1,1001 +1,1001 @@
-product_id,product_name,category,price
-1,Speak,Sports,120.22
-2,Early,Sports,282.28
-3,Nice,Clothing,148.14
-4,Few,Electronics,679.93
-5,Source,Books,96.07
-6,Record,Beauty,41.46
-7,Walk,Electronics,226.45
-8,Often,Books,606.0
-9,Sea,Books,206.85
-10,Whole,Sports,704.31
-11,Same,Beauty,228.24
-12,Culture,Books,285.41
-13,Analysis,Toys,16.43
-14,Single,Toys,168.06
-15,Make,Beauty,346.85
-16,Center,Clothing,223.16
-17,First,Toys,343.23
-18,Policy,Electronics,386.13
-19,Thank,Home & Kitchen,849.02
-20,Bad,Books,271.88
-21,Throw,Electronics,732.43
-22,Top,Books,133.58
-23,Perhaps,Beauty,88.01
-24,And,Home & Kitchen,831.11
-25,Real,Books,886.6
-26,Wonder,Home & Kitchen,581.58
-27,Each,Sports,78.86
-28,Rock,Sports,235.62
-29,Customer,Home & Kitchen,985.37
-30,Truth,Toys,240.46
-31,Child,Electronics,386.32
-32,Exactly,Beauty,639.33
-33,Approach,Home & Kitchen,171.03
-34,Somebody,Home & Kitchen,217.41
-35,Forward,Home & Kitchen,704.8
-36,Similar,Sports,651.56
-37,Toward,Books,638.63
-38,Make,Books,731.84
-39,Bank,Clothing,467.64
-40,Loss,Home & Kitchen,989.63
-41,Religious,Sports,691.28
-42,Oil,Clothing,687.77
-43,Idea,Toys,770.63
-44,Seven,Electronics,236.76
-45,Message,Electronics,807.0
-46,Election,Beauty,275.06
-47,Least,Clothing,914.0
-48,Discussion,Books,877.6
-49,List,Home & Kitchen,220.5
-50,Machine,Beauty,401.68
-51,Hold,Sports,464.26
-52,Together,Home & Kitchen,148.23
-53,Act,Sports,565.75
-54,Realize,Home & Kitchen,749.54
-55,American,Beauty,898.84
-56,Machine,Beauty,368.38
-57,Old,Clothing,514.43
-58,Quality,Electronics,758.22
-59,Strong,Toys,118.55
-60,Letter,Sports,168.38
-61,Around,Sports,427.94
-62,Increase,Electronics,390.92
-63,Understand,Books,996.16
-64,Marriage,Books,258.9
-65,Weight,Books,862.17
-66,No,Electronics,683.48
-67,Spend,Electronics,684.89
-68,Almost,Books,753.37
-69,Worker,Toys,644.55
-70,Blue,Electronics,300.57
-71,Project,Clothing,459.19
-72,Magazine,Sports,877.09
-73,Can,Home & Kitchen,972.17
-74,Step,Toys,186.87
-75,Already,Electronics,871.81
-76,Exist,Home & Kitchen,843.25
-77,Lawyer,Books,612.88
-78,College,Clothing,380.17
-79,Everyone,Clothing,543.99
-80,Individual,Toys,923.21
-81,Current,Electronics,602.96
-82,Politics,Beauty,29.28
-83,Challenge,Home & Kitchen,879.93
-84,Ago,Toys,808.71
-85,Recently,Clothing,67.35
-86,Room,Books,947.48
-87,Movie,Electronics,734.59
-88,View,Toys,78.52
-89,Board,Toys,537.38
-90,Early,Clothing,137.11
-91,Listen,Beauty,947.38
-92,Hair,Clothing,272.41
-93,Ground,Toys,610.53
-94,Church,Clothing,929.62
-95,Laugh,Toys,732.63
-96,Special,Clothing,715.82
-97,Billion,Beauty,995.2
-98,Let,Sports,379.69
-99,Little,Books,456.97
-100,Under,Clothing,232.45
-101,Less,Home & Kitchen,30.82
-102,Simple,Books,237.81
-103,Have,Clothing,17.12
-104,Art,Sports,634.79
-105,Guy,Clothing,76.73
-106,Region,Electronics,861.04
-107,Couple,Electronics,519.01
-108,Billion,Home & Kitchen,672.29
-109,Price,Clothing,543.84
-110,Same,Sports,936.16
-111,Ahead,Books,580.45
-112,Executive,Clothing,786.77
-113,Write,Toys,412.99
-114,Condition,Electronics,105.96
-115,Administration,Beauty,360.75
-116,Floor,Beauty,472.35
-117,Church,Sports,63.63
-118,Detail,Sports,984.32
-119,How,Electronics,70.01
-120,Song,Sports,345.91
-121,Onto,Toys,118.18
-122,Why,Clothing,198.31
-123,Another,Beauty,148.78
-124,Wrong,Clothing,285.76
-125,Member,Clothing,875.74
-126,Her,Electronics,448.7
-127,Live,Toys,857.41
-128,Citizen,Electronics,60.08
-129,Under,Books,837.67
-130,Too,Electronics,927.1
-131,Return,Toys,244.02
-132,Night,Beauty,490.78
-133,Information,Clothing,866.0
-134,Every,Electronics,172.99
-135,Evidence,Electronics,985.46
-136,Same,Home & Kitchen,927.25
-137,Drop,Toys,460.46
-138,Politics,Beauty,699.63
-139,Life,Sports,995.47
-140,Debate,Books,665.25
-141,Strong,Beauty,163.25
-142,Pm,Home & Kitchen,225.52
-143,High,Electronics,583.39
-144,Letter,Books,70.35
-145,Sell,Home & Kitchen,66.59
-146,Receive,Books,482.02
-147,When,Toys,535.81
-148,Open,Electronics,961.17
-149,Many,Electronics,852.83
-150,Move,Electronics,599.08
-151,Those,Sports,863.2
-152,Fear,Beauty,128.69
-153,Movement,Books,253.75
-154,Moment,Books,49.34
-155,Culture,Electronics,425.03
-156,Team,Books,569.57
-157,Policy,Home & Kitchen,935.36
-158,Buy,Clothing,673.03
-159,Explain,Home & Kitchen,246.3
-160,Coach,Beauty,139.57
-161,Stock,Sports,307.0
-162,Single,Home & Kitchen,929.73
-163,Vote,Electronics,19.22
-164,Base,Books,998.47
-165,Energy,Electronics,82.53
-166,While,Clothing,510.83
-167,Entire,Clothing,933.93
-168,How,Electronics,880.48
-169,Unit,Home & Kitchen,292.14
-170,Feeling,Beauty,835.41
-171,Baby,Sports,309.49
-172,Candidate,Toys,657.44
-173,Say,Electronics,671.18
-174,Every,Books,306.38
-175,Product,Sports,112.55
-176,Local,Clothing,271.82
-177,Agency,Electronics,744.99
-178,Third,Clothing,279.62
-179,Station,Books,218.52
-180,Cultural,Home & Kitchen,211.56
-181,Visit,Sports,854.38
-182,Town,Books,493.65
-183,Forget,Toys,60.29
-184,Decision,Sports,429.34
-185,Skin,Home & Kitchen,53.65
-186,His,Home & Kitchen,773.41
-187,Career,Sports,980.0
-188,Economy,Clothing,743.82
-189,Us,Books,708.61
-190,Reason,Books,19.57
-191,Money,Electronics,945.6
-192,Create,Sports,904.89
-193,Early,Books,45.67
-194,Design,Home & Kitchen,586.68
-195,From,Clothing,435.49
-196,Camera,Electronics,315.18
-197,Treatment,Toys,972.47
-198,Today,Electronics,899.94
-199,Upon,Clothing,685.25
-200,Less,Sports,111.77
-201,Someone,Toys,564.28
-202,Mean,Toys,412.31
-203,Walk,Books,751.98
-204,Modern,Clothing,865.96
-205,Hit,Toys,812.66
-206,Evidence,Beauty,34.54
-207,Different,Sports,925.24
-208,But,Toys,931.51
-209,High,Toys,673.21
-210,West,Sports,812.64
-211,Bed,Home & Kitchen,167.61
-212,Body,Sports,117.01
-213,Quality,Toys,48.34
-214,Pattern,Beauty,230.21
-215,Billion,Toys,919.27
-216,Guy,Home & Kitchen,312.14
-217,Center,Toys,872.61
-218,Magazine,Clothing,33.43
-219,Risk,Clothing,404.48
-220,Suddenly,Home & Kitchen,865.71
-221,Result,Toys,286.33
-222,Plan,Sports,514.31
-223,Bring,Sports,981.34
-224,Late,Books,337.84
-225,Choose,Electronics,124.19
-226,Little,Home & Kitchen,186.78
-227,West,Home & Kitchen,47.87
-228,Wear,Books,440.22
-229,Pm,Sports,788.56
-230,Price,Beauty,610.15
-231,Every,Books,124.49
-232,Follow,Books,198.18
-233,International,Electronics,711.7
-234,Just,Electronics,524.72
-235,Other,Toys,543.07
-236,Central,Sports,940.86
-237,College,Sports,673.92
-238,Even,Home & Kitchen,436.98
-239,Perhaps,Sports,921.56
-240,Attack,Books,320.78
-241,Several,Toys,133.38
-242,Firm,Home & Kitchen,512.05
-243,Sort,Sports,414.31
-244,Early,Beauty,700.24
-245,Not,Books,136.01
-246,Machine,Beauty,668.28
-247,Picture,Beauty,680.54
-248,Including,Clothing,619.36
-249,Threat,Home & Kitchen,412.01
-250,Alone,Toys,10.4
-251,Just,Home & Kitchen,218.08
-252,Father,Toys,584.18
-253,Consider,Sports,329.03
-254,Quickly,Beauty,447.74
-255,Election,Clothing,516.06
-256,Marriage,Toys,902.17
-257,These,Toys,738.6
-258,Others,Sports,93.95
-259,Chance,Books,667.22
-260,Our,Books,341.84
-261,Performance,Toys,952.48
-262,Nature,Clothing,676.07
-263,Avoid,Clothing,808.5
-264,Trip,Clothing,34.18
-265,Knowledge,Clothing,984.1
-266,Teach,Books,851.24
-267,Development,Electronics,460.86
-268,Total,Sports,579.91
-269,Morning,Sports,699.39
-270,Water,Beauty,405.66
-271,Start,Clothing,659.5
-272,Party,Electronics,893.73
-273,Somebody,Toys,772.35
-274,Suddenly,Electronics,780.64
-275,Might,Clothing,184.13
-276,Why,Sports,522.78
-277,Throw,Electronics,561.83
-278,Model,Toys,130.15
-279,Others,Clothing,803.4
-280,Edge,Sports,535.82
-281,Kitchen,Books,599.5
-282,Couple,Toys,892.51
-283,Dog,Books,816.86
-284,Collection,Books,432.47
-285,Significant,Books,451.45
-286,Wall,Clothing,746.22
-287,Worry,Beauty,455.57
-288,Push,Toys,254.77
-289,Eight,Sports,284.54
-290,My,Toys,526.09
-291,Beat,Sports,246.85
-292,Page,Beauty,86.71
-293,Scientist,Home & Kitchen,242.15
-294,Skin,Home & Kitchen,326.51
-295,Entire,Books,89.77
-296,Phone,Clothing,238.95
-297,Job,Sports,161.28
-298,Central,Clothing,73.59
-299,Little,Beauty,337.57
-300,Young,Beauty,421.62
-301,Despite,Clothing,834.56
-302,Term,Beauty,905.79
-303,Wear,Books,946.6
-304,Visit,Electronics,858.16
-305,Current,Toys,579.93
-306,As,Beauty,15.84
-307,Data,Home & Kitchen,305.63
-308,Building,Beauty,854.91
-309,High,Toys,424.83
-310,Born,Sports,737.29
-311,Into,Toys,607.22
-312,Realize,Clothing,493.35
-313,Fear,Home & Kitchen,441.48
-314,Anyone,Electronics,394.97
-315,A,Sports,682.35
-316,Deep,Beauty,726.94
-317,Federal,Toys,472.72
-318,Institution,Clothing,980.91
-319,Last,Books,36.7
-320,Exist,Beauty,595.97
-321,Deep,Sports,36.83
-322,Sound,Sports,434.33
-323,Method,Toys,467.08
-324,Can,Electronics,267.55
-325,Beyond,Home & Kitchen,219.54
-326,Easy,Home & Kitchen,344.13
-327,Remember,Beauty,285.47
-328,Control,Toys,427.35
-329,Determine,Toys,91.09
-330,Watch,Electronics,751.53
-331,Every,Electronics,999.91
-332,Teach,Home & Kitchen,231.98
-333,Travel,Electronics,783.42
-334,Hundred,Sports,49.86
-335,Experience,Electronics,950.12
-336,Race,Clothing,840.84
-337,Thought,Books,160.86
-338,Sure,Clothing,478.83
-339,Religious,Electronics,568.33
-340,Improve,Clothing,470.38
-341,Something,Home & Kitchen,769.23
-342,Event,Clothing,609.83
-343,After,Sports,721.17
-344,Popular,Toys,821.11
-345,Congress,Home & Kitchen,117.02
-346,We,Electronics,929.6
-347,Approach,Books,680.57
-348,Culture,Beauty,402.69
-349,Operation,Sports,206.35
-350,Medical,Books,693.71
-351,Race,Sports,250.42
-352,Find,Sports,774.76
-353,Kid,Toys,687.42
-354,That,Toys,129.84
-355,Down,Books,784.81
-356,Deal,Home & Kitchen,537.42
-357,Town,Sports,376.87
-358,Behind,Books,651.07
-359,Skin,Electronics,851.08
-360,Prepare,Toys,495.3
-361,Left,Beauty,961.18
-362,Employee,Sports,892.66
-363,Meet,Beauty,710.24
-364,Issue,Beauty,184.38
-365,Station,Books,965.82
-366,Along,Home & Kitchen,619.75
-367,Campaign,Books,776.9
-368,Relationship,Beauty,441.22
-369,Improve,Sports,596.55
-370,Carry,Home & Kitchen,853.2
-371,Really,Toys,935.28
-372,Mission,Home & Kitchen,882.81
-373,Throw,Clothing,752.97
-374,Particularly,Books,614.23
-375,Sure,Beauty,343.03
-376,Much,Beauty,852.44
-377,Player,Clothing,492.67
-378,Tend,Home & Kitchen,799.85
-379,Part,Home & Kitchen,286.86
-380,Policy,Books,704.17
-381,Wide,Home & Kitchen,560.23
-382,Hotel,Books,948.58
-383,Away,Electronics,248.94
-384,Day,Beauty,493.69
-385,Everybody,Toys,247.92
-386,Yet,Beauty,649.44
-387,Various,Beauty,453.69
-388,Property,Electronics,102.12
-389,Best,Clothing,410.36
-390,My,Clothing,313.14
-391,Herself,Books,375.33
-392,Want,Books,535.61
-393,Guy,Beauty,996.67
-394,Walk,Books,337.48
-395,Effect,Sports,459.21
-396,Good,Home & Kitchen,258.89
-397,Create,Electronics,724.07
-398,Break,Home & Kitchen,128.36
-399,Ten,Books,951.37
-400,Clearly,Sports,193.3
-401,Reality,Clothing,741.22
-402,Quality,Home & Kitchen,727.34
-403,Car,Toys,529.39
-404,Commercial,Home & Kitchen,980.71
-405,Make,Toys,202.18
-406,Question,Clothing,367.27
-407,Nation,Home & Kitchen,24.01
-408,Sell,Books,135.32
-409,Left,Electronics,974.55
-410,Study,Books,299.22
-411,Energy,Clothing,641.49
-412,Form,Toys,495.97
-413,Crime,Toys,22.14
-414,Development,Home & Kitchen,474.7
-415,Entire,Beauty,347.3
-416,Glass,Electronics,259.95
-417,Six,Toys,482.95
-418,From,Toys,74.69
-419,Film,Beauty,83.34
-420,Begin,Sports,689.59
-421,Meet,Clothing,157.71
-422,Scientist,Books,949.63
-423,Modern,Electronics,993.98
-424,Indeed,Electronics,562.49
-425,Stock,Beauty,610.25
-426,Wrong,Toys,622.23
-427,Parent,Toys,527.35
-428,Drive,Beauty,909.42
-429,Point,Home & Kitchen,861.56
-430,Report,Beauty,312.33
-431,Bank,Books,69.63
-432,Various,Sports,108.24
-433,Child,Toys,215.71
-434,Election,Clothing,272.0
-435,Chair,Electronics,165.49
-436,Buy,Clothing,556.47
-437,Start,Clothing,12.65
-438,Hot,Beauty,692.48
-439,Measure,Beauty,298.35
-440,Truth,Clothing,295.22
-441,Include,Home & Kitchen,705.96
-442,Production,Beauty,80.47
-443,Bit,Clothing,924.67
-444,Why,Toys,793.34
-445,Party,Books,664.57
-446,Affect,Clothing,430.89
-447,Role,Books,232.56
-448,Professional,Clothing,909.33
-449,Role,Toys,150.81
-450,Every,Electronics,174.26
-451,Term,Home & Kitchen,599.09
-452,Sign,Toys,573.51
-453,Edge,Home & Kitchen,444.76
-454,Significant,Beauty,691.79
-455,Experience,Sports,408.48
-456,Yard,Home & Kitchen,505.47
-457,Light,Beauty,443.38
-458,Pressure,Books,49.46
-459,Scene,Beauty,737.19
-460,Other,Books,257.86
-461,Professional,Electronics,236.64
-462,Political,Sports,837.6
-463,Style,Books,591.25
-464,Majority,Electronics,999.58
-465,Whose,Sports,823.21
-466,Avoid,Books,49.83
-467,Study,Toys,183.44
-468,Among,Books,654.99
-469,Teacher,Home & Kitchen,189.67
-470,Us,Books,441.53
-471,Democrat,Toys,496.81
-472,Get,Electronics,475.31
-473,Woman,Beauty,339.98
-474,Enough,Sports,113.55
-475,Kitchen,Clothing,336.51
-476,Want,Sports,500.51
-477,View,Sports,945.74
-478,Instead,Toys,762.89
-479,Development,Electronics,460.28
-480,Adult,Home & Kitchen,259.87
-481,Red,Electronics,970.48
-482,Kitchen,Beauty,866.26
-483,Fact,Toys,988.24
-484,Right,Sports,870.67
-485,Phone,Beauty,419.12
-486,Spend,Clothing,523.25
-487,Forget,Books,758.88
-488,Probably,Sports,447.62
-489,Subject,Electronics,211.52
-490,Personal,Books,139.7
-491,What,Home & Kitchen,443.73
-492,Could,Sports,489.86
-493,Like,Electronics,973.42
-494,Control,Books,801.32
-495,Officer,Sports,166.79
-496,Better,Books,23.54
-497,Once,Beauty,102.28
-498,Certain,Toys,913.8
-499,Do,Beauty,947.59
-500,As,Sports,833.82
-501,Century,Beauty,933.33
-502,Close,Home & Kitchen,513.78
-503,Message,Home & Kitchen,421.34
-504,Level,Beauty,980.44
-505,Life,Clothing,462.22
-506,Travel,Clothing,389.75
-507,Recent,Books,513.16
-508,Better,Clothing,865.39
-509,Carry,Home & Kitchen,774.95
-510,After,Toys,420.79
-511,Religious,Toys,512.66
-512,Property,Toys,12.54
-513,By,Sports,305.57
-514,How,Books,584.12
-515,Research,Sports,494.74
-516,Machine,Clothing,452.08
-517,South,Beauty,351.67
-518,Throw,Books,765.24
-519,Current,Beauty,460.79
-520,Media,Home & Kitchen,870.91
-521,Friend,Sports,246.42
-522,Amount,Beauty,241.23
-523,Everyone,Toys,416.67
-524,Six,Home & Kitchen,747.26
-525,Box,Sports,914.3
-526,Leave,Beauty,392.22
-527,Information,Sports,794.47
-528,Accept,Sports,981.01
-529,Decade,Beauty,965.18
-530,Test,Clothing,507.27
-531,Common,Books,338.67
-532,Yeah,Electronics,875.45
-533,Couple,Beauty,108.71
-534,It,Beauty,25.19
-535,Mission,Clothing,415.88
-536,That,Sports,970.26
-537,Matter,Electronics,474.8
-538,Meeting,Home & Kitchen,345.18
-539,Institution,Sports,403.51
-540,Figure,Electronics,853.25
-541,Hundred,Toys,677.61
-542,Spring,Books,386.21
-543,Product,Home & Kitchen,630.53
-544,Relate,Toys,493.07
-545,International,Books,45.54
-546,Whatever,Electronics,242.42
-547,Final,Sports,921.72
-548,Many,Clothing,749.3
-549,Environmental,Beauty,978.55
-550,Including,Toys,637.41
-551,Town,Toys,109.5
-552,Yet,Clothing,697.06
-553,Protect,Electronics,55.53
-554,Soldier,Toys,65.56
-555,Home,Home & Kitchen,381.09
-556,Size,Clothing,251.76
-557,Generation,Beauty,570.27
-558,House,Toys,188.26
-559,First,Clothing,88.18
-560,Near,Toys,388.72
-561,New,Sports,248.42
-562,Course,Books,151.69
-563,Probably,Beauty,641.53
-564,Wish,Beauty,262.77
-565,Start,Electronics,899.92
-566,Over,Beauty,902.2
-567,Brother,Sports,551.13
-568,Hear,Electronics,447.31
-569,Far,Home & Kitchen,987.78
-570,Growth,Home & Kitchen,642.55
-571,Let,Beauty,693.41
-572,Plant,Beauty,846.85
-573,Again,Clothing,999.38
-574,Trip,Toys,488.38
-575,Campaign,Clothing,387.55
-576,Close,Home & Kitchen,579.06
-577,Week,Sports,302.28
-578,Necessary,Toys,661.65
-579,Perform,Home & Kitchen,18.02
-580,Democratic,Toys,688.94
-581,Hair,Sports,973.87
-582,Feeling,Books,747.72
-583,Natural,Toys,905.11
-584,Sign,Home & Kitchen,777.98
-585,Beautiful,Clothing,610.99
-586,Per,Home & Kitchen,226.81
-587,City,Clothing,624.68
-588,Performance,Sports,758.02
-589,Common,Toys,662.59
-590,Look,Toys,145.41
-591,Somebody,Electronics,904.37
-592,There,Sports,49.03
-593,Plant,Toys,446.41
-594,Account,Books,371.21
-595,Middle,Clothing,99.23
-596,Black,Home & Kitchen,333.45
-597,Almost,Beauty,183.88
-598,Foreign,Clothing,788.65
-599,Third,Home & Kitchen,535.54
-600,Theory,Home & Kitchen,832.17
-601,Throw,Home & Kitchen,914.91
-602,Base,Beauty,967.71
-603,Out,Home & Kitchen,749.09
-604,Author,Home & Kitchen,806.19
-605,Believe,Beauty,963.26
-606,Similar,Clothing,756.61
-607,Simply,Clothing,861.54
-608,Around,Sports,677.66
-609,Music,Beauty,967.6
-610,Culture,Toys,561.74
-611,Idea,Electronics,792.78
-612,Our,Electronics,271.81
-613,Two,Electronics,460.24
-614,Factor,Sports,751.52
-615,Sell,Home & Kitchen,588.71
-616,Age,Toys,642.16
-617,Stuff,Home & Kitchen,117.26
-618,Say,Clothing,476.76
-619,Visit,Books,885.39
-620,Husband,Books,334.73
-621,Another,Books,229.15
-622,Single,Electronics,639.05
-623,Occur,Beauty,910.29
-624,Job,Home & Kitchen,652.75
-625,Movement,Electronics,148.38
-626,Size,Electronics,311.32
-627,Role,Beauty,124.96
-628,Eat,Clothing,888.39
-629,Mention,Clothing,394.76
-630,Quickly,Home & Kitchen,673.78
-631,Cause,Sports,699.52
-632,Respond,Books,424.94
-633,Wait,Sports,729.33
-634,After,Beauty,658.37
-635,Able,Toys,494.45
-636,Outside,Beauty,939.66
-637,Money,Home & Kitchen,42.39
-638,Threat,Home & Kitchen,225.1
-639,Population,Beauty,951.05
-640,Notice,Toys,369.06
-641,History,Sports,373.66
-642,Mission,Sports,365.09
-643,Factor,Beauty,283.12
-644,Soldier,Electronics,949.52
-645,Capital,Toys,460.17
-646,Can,Sports,219.98
-647,Yet,Sports,601.17
-648,Suddenly,Electronics,60.07
-649,Reach,Home & Kitchen,251.13
-650,Institution,Clothing,789.11
-651,Allow,Clothing,77.92
-652,Character,Toys,558.67
-653,Region,Books,223.79
-654,Up,Toys,240.67
-655,Plan,Toys,156.08
-656,Person,Books,12.81
-657,Light,Toys,984.19
-658,Magazine,Clothing,544.81
-659,Strong,Toys,182.75
-660,Near,Sports,867.78
-661,Which,Clothing,24.71
-662,Likely,Toys,790.55
-663,Police,Books,330.53
-664,Far,Clothing,272.71
-665,Computer,Clothing,744.3
-666,List,Books,122.51
-667,Simply,Electronics,481.48
-668,Couple,Toys,368.42
-669,Help,Books,117.96
-670,Common,Books,229.33
-671,Check,Books,52.93
-672,Feeling,Toys,909.66
-673,Top,Sports,526.24
-674,Process,Beauty,646.91
-675,Season,Electronics,70.22
-676,Six,Beauty,848.83
-677,Forget,Beauty,689.24
-678,Seem,Beauty,715.28
-679,Notice,Beauty,82.76
-680,Represent,Electronics,328.89
-681,Item,Clothing,75.03
-682,About,Home & Kitchen,628.07
-683,Energy,Books,552.87
-684,Interview,Home & Kitchen,387.1
-685,Store,Books,535.25
-686,Hard,Beauty,510.5
-687,Study,Beauty,108.19
-688,Man,Sports,123.27
-689,Admit,Sports,654.41
-690,Himself,Toys,555.82
-691,Local,Toys,222.87
-692,Surface,Beauty,889.21
-693,Himself,Beauty,345.54
-694,Movement,Beauty,404.74
-695,Audience,Sports,104.13
-696,Board,Beauty,319.4
-697,Throw,Home & Kitchen,380.56
-698,That,Clothing,689.95
-699,College,Beauty,76.46
-700,Available,Toys,94.51
-701,Nation,Beauty,105.6
-702,Fight,Sports,378.92
-703,Information,Clothing,560.81
-704,Sport,Books,957.06
-705,Discussion,Books,336.35
-706,Thousand,Electronics,416.7
-707,Way,Toys,668.69
-708,Interest,Toys,428.71
-709,Outside,Sports,60.93
-710,Break,Home & Kitchen,604.41
-711,Baby,Home & Kitchen,112.56
-712,Skin,Books,220.61
-713,Space,Sports,487.37
-714,Voice,Toys,117.14
-715,Building,Toys,560.7
-716,Along,Electronics,764.98
-717,Enter,Books,233.9
-718,Push,Beauty,846.7
-719,Finally,Toys,820.24
-720,Form,Books,678.23
-721,Reflect,Books,35.99
-722,Care,Sports,831.17
-723,Couple,Home & Kitchen,38.66
-724,Person,Home & Kitchen,705.67
-725,Sometimes,Home & Kitchen,922.32
-726,Able,Home & Kitchen,16.04
-727,Into,Toys,151.82
-728,Beat,Sports,406.78
-729,Today,Clothing,743.56
-730,Phone,Electronics,100.84
-731,Instead,Books,222.98
-732,Four,Beauty,459.11
-733,Although,Clothing,376.35
-734,Father,Sports,331.14
-735,Scientist,Books,600.26
-736,Heavy,Electronics,164.02
-737,Age,Toys,621.66
-738,Pressure,Sports,90.77
-739,Once,Beauty,665.32
-740,Debate,Beauty,611.01
-741,Respond,Beauty,280.44
-742,While,Toys,517.22
-743,College,Home & Kitchen,435.61
-744,Learn,Home & Kitchen,681.44
-745,Nice,Books,491.77
-746,Clear,Sports,315.34
-747,Consumer,Clothing,401.31
-748,Poor,Books,64.23
-749,Already,Clothing,308.41
-750,So,Clothing,769.68
-751,Leader,Toys,262.96
-752,Land,Home & Kitchen,128.78
-753,Number,Beauty,749.54
-754,Bar,Clothing,137.89
-755,Specific,Books,706.63
-756,Front,Books,563.14
-757,Left,Sports,808.14
-758,Challenge,Electronics,403.1
-759,Religious,Sports,51.88
-760,Watch,Electronics,465.16
-761,For,Electronics,863.49
-762,Citizen,Books,434.99
-763,Force,Beauty,712.4
-764,Congress,Beauty,296.62
-765,You,Beauty,30.65
-766,Something,Home & Kitchen,180.15
-767,Choose,Books,465.5
-768,Beyond,Sports,920.57
-769,Include,Electronics,442.34
-770,Production,Electronics,250.88
-771,Enter,Books,406.45
-772,Type,Electronics,401.81
-773,Catch,Home & Kitchen,748.35
-774,Long,Clothing,339.74
-775,Interesting,Clothing,85.62
-776,Beautiful,Sports,122.89
-777,Man,Books,201.96
-778,The,Toys,355.88
-779,Support,Sports,958.64
-780,Provide,Sports,816.89
-781,Debate,Clothing,111.78
-782,Those,Home & Kitchen,205.3
-783,Side,Books,161.34
-784,Shake,Toys,658.95
-785,High,Clothing,951.78
-786,Election,Sports,499.18
-787,Gas,Toys,568.1
-788,Trial,Books,454.42
-789,Begin,Books,646.56
-790,Somebody,Books,329.98
-791,Near,Sports,322.98
-792,Whose,Beauty,77.6
-793,End,Beauty,635.07
-794,Collection,Toys,281.93
-795,Security,Electronics,358.42
-796,Commercial,Electronics,317.3
-797,Drop,Beauty,47.23
-798,Stand,Home & Kitchen,833.38
-799,Compare,Electronics,648.22
-800,Specific,Toys,99.39
-801,Including,Books,512.0
-802,Present,Beauty,584.53
-803,Speak,Toys,741.53
-804,Cause,Electronics,455.24
-805,Look,Toys,575.94
-806,Day,Clothing,328.31
-807,Certain,Beauty,506.35
-808,Site,Electronics,456.02
-809,Order,Toys,900.14
-810,Various,Home & Kitchen,982.56
-811,Here,Electronics,509.5
-812,Soon,Clothing,48.75
-813,Leg,Sports,443.38
-814,He,Beauty,528.83
-815,Where,Books,167.16
-816,Minute,Home & Kitchen,918.76
-817,Sound,Beauty,414.68
-818,Wind,Home & Kitchen,682.11
-819,Suddenly,Electronics,791.33
-820,Successful,Sports,341.3
-821,Eye,Home & Kitchen,103.56
-822,Little,Sports,392.7
-823,Should,Home & Kitchen,726.5
-824,Important,Sports,964.77
-825,Someone,Books,874.55
-826,Paper,Home & Kitchen,90.69
-827,Administration,Sports,150.01
-828,Rock,Home & Kitchen,317.13
-829,Present,Sports,701.5
-830,Simple,Beauty,137.66
-831,North,Sports,938.62
-832,Human,Home & Kitchen,563.33
-833,Try,Sports,793.75
-834,Brother,Toys,136.52
-835,Her,Sports,830.67
-836,Hope,Sports,997.19
-837,Officer,Books,102.52
-838,Amount,Sports,429.17
-839,Party,Home & Kitchen,28.05
-840,What,Home & Kitchen,188.46
-841,High,Clothing,348.32
-842,Fast,Toys,491.41
-843,Reality,Clothing,999.98
-844,Answer,Clothing,86.39
-845,Test,Toys,790.24
-846,Hot,Books,773.17
-847,Mr,Toys,741.26
-848,Raise,Books,47.37
-849,Player,Home & Kitchen,877.63
-850,Rich,Books,139.74
-851,Hotel,Beauty,162.71
-852,Member,Clothing,833.03
-853,Almost,Toys,628.49
-854,Power,Clothing,723.97
-855,Piece,Electronics,416.75
-856,Prepare,Sports,722.39
-857,Student,Beauty,614.49
-858,Task,Toys,751.05
-859,Sort,Beauty,241.66
-860,Fish,Clothing,316.37
-861,Return,Toys,786.53
-862,Appear,Toys,202.08
-863,Professor,Sports,947.66
-864,Great,Beauty,467.06
-865,Draw,Home & Kitchen,780.34
-866,Before,Books,532.19
-867,She,Clothing,818.72
-868,School,Toys,608.62
-869,Option,Toys,257.5
-870,Through,Sports,485.78
-871,Three,Home & Kitchen,559.0
-872,Religious,Electronics,714.29
-873,Hotel,Books,852.65
-874,Face,Home & Kitchen,93.04
-875,Body,Clothing,280.06
-876,Would,Books,155.88
-877,Leg,Beauty,100.8
-878,Really,Clothing,818.54
-879,Responsibility,Home & Kitchen,931.17
-880,Writer,Beauty,62.72
-881,Camera,Books,380.22
-882,Civil,Beauty,994.58
-883,Continue,Home & Kitchen,232.29
-884,Lose,Home & Kitchen,931.52
-885,Memory,Toys,717.56
-886,Identify,Home & Kitchen,793.47
-887,Continue,Clothing,47.92
-888,White,Toys,477.73
-889,High,Toys,147.4
-890,Team,Sports,474.42
-891,Special,Books,15.2
-892,Approach,Electronics,28.81
-893,Fine,Clothing,836.61
-894,Open,Books,940.82
-895,We,Books,532.49
-896,Relate,Electronics,778.41
-897,Way,Clothing,308.14
-898,Call,Electronics,246.06
-899,Positive,Sports,795.96
-900,Support,Beauty,72.18
-901,Whole,Toys,906.1
-902,Nation,Books,540.69
-903,Collection,Sports,520.22
-904,Region,Clothing,721.36
-905,Beyond,Home & Kitchen,434.95
-906,Return,Books,359.29
-907,Son,Books,422.4
-908,Onto,Sports,671.53
-909,Four,Books,974.91
-910,Everybody,Electronics,953.87
-911,Drive,Books,512.25
-912,Everything,Books,558.61
-913,Tree,Beauty,874.6
-914,Position,Electronics,639.31
-915,Standard,Home & Kitchen,261.11
-916,Performance,Electronics,363.52
-917,Probably,Electronics,351.35
-918,Probably,Sports,660.53
-919,Plan,Electronics,773.79
-920,Include,Sports,759.11
-921,Nice,Clothing,53.89
-922,Citizen,Books,345.16
-923,Four,Sports,183.34
-924,Student,Toys,687.84
-925,Condition,Sports,483.75
-926,Above,Clothing,813.38
-927,Enough,Electronics,718.88
-928,Loss,Beauty,46.61
-929,Here,Clothing,53.37
-930,Student,Clothing,886.93
-931,Notice,Home & Kitchen,934.04
-932,Feeling,Books,404.24
-933,Us,Toys,547.6
-934,Visit,Home & Kitchen,46.25
-935,Doctor,Sports,199.19
-936,Forward,Home & Kitchen,863.52
-937,Or,Electronics,867.14
-938,Spring,Home & Kitchen,280.48
-939,Ok,Toys,374.34
-940,Training,Beauty,745.87
-941,Partner,Beauty,345.65
-942,Feel,Clothing,501.24
-943,Minute,Beauty,373.67
-944,Attorney,Toys,524.08
-945,Claim,Toys,91.79
-946,Keep,Beauty,88.14
-947,Beautiful,Books,995.15
-948,Finally,Clothing,550.02
-949,Itself,Home & Kitchen,111.57
-950,Year,Home & Kitchen,664.31
-951,Leave,Home & Kitchen,451.46
-952,Suggest,Sports,431.85
-953,Industry,Sports,449.47
-954,Able,Beauty,51.93
-955,Never,Toys,912.49
-956,Recent,Books,998.17
-957,Suggest,Home & Kitchen,643.07
-958,Carry,Toys,948.43
-959,Worker,Electronics,674.47
-960,Image,Beauty,369.68
-961,Style,Toys,752.4
-962,Suffer,Clothing,953.26
-963,Another,Clothing,850.18
-964,One,Sports,783.5
-965,Box,Electronics,134.97
-966,Attorney,Clothing,780.73
-967,Once,Home & Kitchen,368.53
-968,World,Books,42.06
-969,Attack,Clothing,682.27
-970,Ground,Home & Kitchen,378.29
-971,Deal,Toys,86.12
-972,Country,Clothing,534.17
-973,Form,Beauty,321.24
-974,Crime,Home & Kitchen,257.12
-975,Return,Electronics,35.65
-976,Across,Clothing,504.05
-977,Day,Beauty,914.41
-978,Ever,Electronics,269.16
-979,Turn,Home & Kitchen,707.0
-980,Notice,Clothing,996.4
-981,Interesting,Home & Kitchen,697.04
-982,Drop,Beauty,208.18
-983,Like,Clothing,854.3
-984,Dinner,Beauty,180.93
-985,Surface,Sports,450.66
-986,Back,Electronics,812.41
-987,Whole,Toys,986.71
-988,Do,Sports,353.95
-989,Great,Electronics,554.5
-990,Body,Home & Kitchen,892.42
-991,Inside,Toys,165.93
-992,Down,Sports,928.05
-993,Dream,Sports,182.35
-994,Wind,Home & Kitchen,513.67
-995,Arm,Electronics,985.28
-996,Situation,Toys,147.49
-997,Field,Toys,499.08
-998,Quickly,Home & Kitchen,558.48
-999,Yet,Home & Kitchen,472.73
-1000,Require,Books,138.47
+product_id,product_name,category,price,added_date,added_by
+1,By,Sports,120.22,2026-05-24 18:51:40.742606,ADMIN
+2,Serious,Sports,282.28,2026-05-24 18:51:40.742627,ADMIN
+3,Company,Clothing,148.14,2026-05-24 18:51:40.742638,ADMIN
+4,Although,Electronics,679.93,2026-05-24 18:51:40.742646,ADMIN
+5,Chance,Books,96.07,2026-05-24 18:51:40.742656,ADMIN
+6,Trip,Beauty,41.46,2026-05-24 18:51:40.742663,ADMIN
+7,Soldier,Electronics,226.45,2026-05-24 18:51:40.742671,ADMIN
+8,Black,Books,606.0,2026-05-24 18:51:40.742682,ADMIN
+9,Small,Books,206.85,2026-05-24 18:51:40.742690,ADMIN
+10,Sure,Sports,704.31,2026-05-24 18:51:40.742699,ADMIN
+11,Picture,Beauty,228.24,2026-05-24 18:51:40.742708,ADMIN
+12,Style,Books,285.41,2026-05-24 18:51:40.742717,ADMIN
+13,Factor,Toys,16.43,2026-05-24 18:51:40.742727,ADMIN
+14,Difficult,Toys,168.06,2026-05-24 18:51:40.742734,ADMIN
+15,Serve,Beauty,346.85,2026-05-24 18:51:40.742742,ADMIN
+16,Pull,Clothing,223.16,2026-05-24 18:51:40.742749,ADMIN
+17,Middle,Toys,343.23,2026-05-24 18:51:40.742756,ADMIN
+18,Letter,Electronics,386.13,2026-05-24 18:51:40.742764,ADMIN
+19,Service,Home & Kitchen,849.02,2026-05-24 18:51:40.742771,ADMIN
+20,Fast,Books,271.88,2026-05-24 18:51:40.742779,ADMIN
+21,Cause,Electronics,732.43,2026-05-24 18:51:40.742786,ADMIN
+22,Anyone,Books,133.58,2026-05-24 18:51:40.742794,ADMIN
+23,Building,Beauty,88.01,2026-05-24 18:51:40.742801,ADMIN
+24,Recently,Home & Kitchen,831.11,2026-05-24 18:51:40.742809,ADMIN
+25,Forget,Books,886.6,2026-05-24 18:51:40.742816,ADMIN
+26,Chance,Home & Kitchen,581.58,2026-05-24 18:51:40.742824,ADMIN
+27,Above,Sports,78.86,2026-05-24 18:51:40.742832,ADMIN
+28,Civil,Sports,235.62,2026-05-24 18:51:40.742840,ADMIN
+29,Range,Home & Kitchen,985.37,2026-05-24 18:51:40.742847,ADMIN
+30,Environment,Toys,240.46,2026-05-24 18:51:40.742855,ADMIN
+31,Put,Electronics,386.32,2026-05-24 18:51:40.742862,ADMIN
+32,Son,Beauty,639.33,2026-05-24 18:51:40.742870,ADMIN
+33,Opportunity,Home & Kitchen,171.03,2026-05-24 18:51:40.742877,ADMIN
+34,Foot,Home & Kitchen,217.41,2026-05-24 18:51:40.742887,ADMIN
+35,Describe,Home & Kitchen,704.8,2026-05-24 18:51:40.742895,ADMIN
+36,Try,Sports,651.56,2026-05-24 18:51:40.742902,ADMIN
+37,School,Books,638.63,2026-05-24 18:51:40.742910,ADMIN
+38,Case,Books,731.84,2026-05-24 18:51:40.742917,ADMIN
+39,Throw,Clothing,467.64,2026-05-24 18:51:40.742924,ADMIN
+40,East,Home & Kitchen,989.63,2026-05-24 18:51:40.742932,ADMIN
+41,Myself,Sports,691.28,2026-05-24 18:51:40.742939,ADMIN
+42,How,Clothing,687.77,2026-05-24 18:51:40.742947,ADMIN
+43,Such,Toys,770.63,2026-05-24 18:51:40.742954,ADMIN
+44,Protect,Electronics,236.76,2026-05-24 18:51:40.742962,ADMIN
+45,Month,Electronics,807.0,2026-05-24 18:51:40.742969,ADMIN
+46,Bad,Beauty,275.06,2026-05-24 18:51:40.742976,ADMIN
+47,Poor,Clothing,914.0,2026-05-24 18:51:40.742984,ADMIN
+48,Party,Books,877.6,2026-05-24 18:51:40.742991,ADMIN
+49,When,Home & Kitchen,220.5,2026-05-24 18:51:40.742998,ADMIN
+50,Hard,Beauty,401.68,2026-05-24 18:51:40.743005,ADMIN
+51,Out,Sports,464.26,2026-05-24 18:51:40.743013,ADMIN
+52,Four,Home & Kitchen,148.23,2026-05-24 18:51:40.743020,ADMIN
+53,Around,Sports,565.75,2026-05-24 18:51:40.743027,ADMIN
+54,Development,Home & Kitchen,749.54,2026-05-24 18:51:40.743035,ADMIN
+55,Deep,Beauty,898.84,2026-05-24 18:51:40.743043,ADMIN
+56,Speak,Beauty,368.38,2026-05-24 18:51:40.743050,ADMIN
+57,Son,Clothing,514.43,2026-05-24 18:51:40.743058,ADMIN
+58,But,Electronics,758.22,2026-05-24 18:51:40.743066,ADMIN
+59,Crime,Toys,118.55,2026-05-24 18:51:40.743073,ADMIN
+60,Serious,Sports,168.38,2026-05-24 18:51:40.743081,ADMIN
+61,Character,Sports,427.94,2026-05-24 18:51:40.743088,ADMIN
+62,Mention,Electronics,390.92,2026-05-24 18:51:40.743095,ADMIN
+63,Gun,Books,996.16,2026-05-24 18:51:40.743103,ADMIN
+64,Market,Books,258.9,2026-05-24 18:51:40.743110,ADMIN
+65,Because,Books,862.17,2026-05-24 18:51:40.743117,ADMIN
+66,Hold,Electronics,683.48,2026-05-24 18:51:40.743126,ADMIN
+67,Gas,Electronics,684.89,2026-05-24 18:51:40.743133,ADMIN
+68,Yes,Books,753.37,2026-05-24 18:51:40.743140,ADMIN
+69,Girl,Toys,644.55,2026-05-24 18:51:40.743148,ADMIN
+70,Performance,Electronics,300.57,2026-05-24 18:51:40.743155,ADMIN
+71,Suffer,Clothing,459.19,2026-05-24 18:51:40.743162,ADMIN
+72,Light,Sports,877.09,2026-05-24 18:51:40.743169,ADMIN
+73,Idea,Home & Kitchen,972.17,2026-05-24 18:51:40.743177,ADMIN
+74,Assume,Toys,186.87,2026-05-24 18:51:40.743185,ADMIN
+75,Draw,Electronics,871.81,2026-05-24 18:51:40.743192,ADMIN
+76,Important,Home & Kitchen,843.25,2026-05-24 18:51:40.743199,ADMIN
+77,Far,Books,612.88,2026-05-24 18:51:40.743207,ADMIN
+78,Social,Clothing,380.17,2026-05-24 18:51:40.743216,ADMIN
+79,Any,Clothing,543.99,2026-05-24 18:51:40.743223,ADMIN
+80,Data,Toys,923.21,2026-05-24 18:51:40.743231,ADMIN
+81,Another,Electronics,602.96,2026-05-24 18:51:40.743238,ADMIN
+82,No,Beauty,29.28,2026-05-24 18:51:40.743246,ADMIN
+83,Final,Home & Kitchen,879.93,2026-05-24 18:51:40.743253,ADMIN
+84,Seat,Toys,808.71,2026-05-24 18:51:40.743260,ADMIN
+85,Artist,Clothing,67.35,2026-05-24 18:51:40.743267,ADMIN
+86,Loss,Books,947.48,2026-05-24 18:51:40.743276,ADMIN
+87,Although,Electronics,734.59,2026-05-24 18:51:40.743283,ADMIN
+88,Low,Toys,78.52,2026-05-24 18:51:40.743291,ADMIN
+89,Add,Toys,537.38,2026-05-24 18:51:40.743298,ADMIN
+90,Police,Clothing,137.11,2026-05-24 18:51:40.743305,ADMIN
+91,Road,Beauty,947.38,2026-05-24 18:51:40.743312,ADMIN
+92,About,Clothing,272.41,2026-05-24 18:51:40.743320,ADMIN
+93,South,Toys,610.53,2026-05-24 18:51:40.743327,ADMIN
+94,Turn,Clothing,929.62,2026-05-24 18:51:40.743335,ADMIN
+95,Unit,Toys,732.63,2026-05-24 18:51:40.743342,ADMIN
+96,About,Clothing,715.82,2026-05-24 18:51:40.743349,ADMIN
+97,Continue,Beauty,995.2,2026-05-24 18:51:40.743356,ADMIN
+98,Will,Sports,379.69,2026-05-24 18:51:40.743364,ADMIN
+99,Value,Books,456.97,2026-05-24 18:51:40.743371,ADMIN
+100,Over,Clothing,232.45,2026-05-24 18:51:40.743378,ADMIN
+101,Help,Home & Kitchen,30.82,2026-05-24 18:51:40.743385,ADMIN
+102,Property,Books,237.81,2026-05-24 18:51:40.743393,ADMIN
+103,Shoulder,Clothing,17.12,2026-05-24 18:51:40.743400,ADMIN
+104,See,Sports,634.79,2026-05-24 18:51:40.743407,ADMIN
+105,Mean,Clothing,76.73,2026-05-24 18:51:40.743414,ADMIN
+106,Science,Electronics,861.04,2026-05-24 18:51:40.743422,ADMIN
+107,Weight,Electronics,519.01,2026-05-24 18:51:40.743429,ADMIN
+108,Kitchen,Home & Kitchen,672.29,2026-05-24 18:51:40.743436,ADMIN
+109,Include,Clothing,543.84,2026-05-24 18:51:40.743444,ADMIN
+110,Single,Sports,936.16,2026-05-24 18:51:40.743452,ADMIN
+111,Sell,Books,580.45,2026-05-24 18:51:40.743459,ADMIN
+112,Any,Clothing,786.77,2026-05-24 18:51:40.743467,ADMIN
+113,Whether,Toys,412.99,2026-05-24 18:51:40.743475,ADMIN
+114,Employee,Electronics,105.96,2026-05-24 18:51:40.743482,ADMIN
+115,Past,Beauty,360.75,2026-05-24 18:51:40.743489,ADMIN
+116,Cover,Beauty,472.35,2026-05-24 18:51:40.743496,ADMIN
+117,Number,Sports,63.63,2026-05-24 18:51:40.743503,ADMIN
+118,Hand,Sports,984.32,2026-05-24 18:51:40.743511,ADMIN
+119,Sound,Electronics,70.01,2026-05-24 18:51:40.743518,ADMIN
+120,There,Sports,345.91,2026-05-24 18:51:40.743525,ADMIN
+121,Power,Toys,118.18,2026-05-24 18:51:40.743533,ADMIN
+122,Home,Clothing,198.31,2026-05-24 18:51:40.743540,ADMIN
+123,Us,Beauty,148.78,2026-05-24 18:51:40.743547,ADMIN
+124,Fill,Clothing,285.76,2026-05-24 18:51:40.743554,ADMIN
+125,Traditional,Clothing,875.74,2026-05-24 18:51:40.743561,ADMIN
+126,Establish,Electronics,448.7,2026-05-24 18:51:40.743568,ADMIN
+127,Today,Toys,857.41,2026-05-24 18:51:40.743576,ADMIN
+128,High,Electronics,60.08,2026-05-24 18:51:40.743583,ADMIN
+129,Book,Books,837.67,2026-05-24 18:51:40.743590,ADMIN
+130,Together,Electronics,927.1,2026-05-24 18:51:40.743598,ADMIN
+131,Eye,Toys,244.02,2026-05-24 18:51:40.743605,ADMIN
+132,Grow,Beauty,490.78,2026-05-24 18:51:40.743612,ADMIN
+133,True,Clothing,866.0,2026-05-24 18:51:40.743619,ADMIN
+134,Assume,Electronics,172.99,2026-05-24 18:51:40.743626,ADMIN
+135,Degree,Electronics,985.46,2026-05-24 18:51:40.743634,ADMIN
+136,Because,Home & Kitchen,927.25,2026-05-24 18:51:40.743641,ADMIN
+137,Herself,Toys,460.46,2026-05-24 18:51:40.743648,ADMIN
+138,Professional,Beauty,699.63,2026-05-24 18:51:40.743655,ADMIN
+139,Probably,Sports,995.47,2026-05-24 18:51:40.743663,ADMIN
+140,Activity,Books,665.25,2026-05-24 18:51:40.743670,ADMIN
+141,Would,Beauty,163.25,2026-05-24 18:51:40.743677,ADMIN
+142,These,Home & Kitchen,225.52,2026-05-24 18:51:40.743684,ADMIN
+143,Whose,Electronics,583.39,2026-05-24 18:51:40.743691,ADMIN
+144,Turn,Books,70.35,2026-05-24 18:51:40.743698,ADMIN
+145,Include,Home & Kitchen,66.59,2026-05-24 18:51:40.743705,ADMIN
+146,Keep,Books,482.02,2026-05-24 18:51:40.743712,ADMIN
+147,Surface,Toys,535.81,2026-05-24 18:51:40.743720,ADMIN
+148,End,Electronics,961.17,2026-05-24 18:51:40.743727,ADMIN
+149,White,Electronics,852.83,2026-05-24 18:51:40.743734,ADMIN
+150,Understand,Electronics,599.08,2026-05-24 18:51:40.743742,ADMIN
+151,Occur,Sports,863.2,2026-05-24 18:51:40.743749,ADMIN
+152,To,Beauty,128.69,2026-05-24 18:51:40.743756,ADMIN
+153,War,Books,253.75,2026-05-24 18:51:40.743763,ADMIN
+154,Success,Books,49.34,2026-05-24 18:51:40.743770,ADMIN
+155,Agency,Electronics,425.03,2026-05-24 18:51:40.743777,ADMIN
+156,Officer,Books,569.57,2026-05-24 18:51:40.743784,ADMIN
+157,Nature,Home & Kitchen,935.36,2026-05-24 18:51:40.743792,ADMIN
+158,Reach,Clothing,673.03,2026-05-24 18:51:40.743799,ADMIN
+159,Appear,Home & Kitchen,246.3,2026-05-24 18:51:40.743806,ADMIN
+160,Relationship,Beauty,139.57,2026-05-24 18:51:40.743814,ADMIN
+161,Writer,Sports,307.0,2026-05-24 18:51:40.743821,ADMIN
+162,Meeting,Home & Kitchen,929.73,2026-05-24 18:51:40.743828,ADMIN
+163,Customer,Electronics,19.22,2026-05-24 18:51:40.743835,ADMIN
+164,Among,Books,998.47,2026-05-24 18:51:40.743842,ADMIN
+165,Similar,Electronics,82.53,2026-05-24 18:51:40.743850,ADMIN
+166,Lead,Clothing,510.83,2026-05-24 18:51:40.743857,ADMIN
+167,Represent,Clothing,933.93,2026-05-24 18:51:40.743864,ADMIN
+168,Better,Electronics,880.48,2026-05-24 18:51:40.743871,ADMIN
+169,Age,Home & Kitchen,292.14,2026-05-24 18:51:40.743878,ADMIN
+170,Bar,Beauty,835.41,2026-05-24 18:51:40.743885,ADMIN
+171,Step,Sports,309.49,2026-05-24 18:51:40.743893,ADMIN
+172,On,Toys,657.44,2026-05-24 18:51:40.743900,ADMIN
+173,Event,Electronics,671.18,2026-05-24 18:51:40.743907,ADMIN
+174,Daughter,Books,306.38,2026-05-24 18:51:40.743915,ADMIN
+175,Baby,Sports,112.55,2026-05-24 18:51:40.743922,ADMIN
+176,Station,Clothing,271.82,2026-05-24 18:51:40.743929,ADMIN
+177,Prevent,Electronics,744.99,2026-05-24 18:51:40.743937,ADMIN
+178,Quality,Clothing,279.62,2026-05-24 18:51:40.743944,ADMIN
+179,Past,Books,218.52,2026-05-24 18:51:40.743951,ADMIN
+180,Appear,Home & Kitchen,211.56,2026-05-24 18:51:40.743958,ADMIN
+181,Million,Sports,854.38,2026-05-24 18:51:40.743965,ADMIN
+182,Mother,Books,493.65,2026-05-24 18:51:40.743972,ADMIN
+183,Start,Toys,60.29,2026-05-24 18:51:40.743979,ADMIN
+184,Way,Sports,429.34,2026-05-24 18:51:40.743986,ADMIN
+185,Source,Home & Kitchen,53.65,2026-05-24 18:51:40.743993,ADMIN
+186,Administration,Home & Kitchen,773.41,2026-05-24 18:51:40.744000,ADMIN
+187,Rich,Sports,980.0,2026-05-24 18:51:40.744007,ADMIN
+188,Win,Clothing,743.82,2026-05-24 18:51:40.744014,ADMIN
+189,Local,Books,708.61,2026-05-24 18:51:40.744022,ADMIN
+190,Decade,Books,19.57,2026-05-24 18:51:40.744029,ADMIN
+191,Part,Electronics,945.6,2026-05-24 18:51:40.744036,ADMIN
+192,Economy,Sports,904.89,2026-05-24 18:51:40.744043,ADMIN
+193,Decide,Books,45.67,2026-05-24 18:51:40.744050,ADMIN
+194,Behind,Home & Kitchen,586.68,2026-05-24 18:51:40.744057,ADMIN
+195,West,Clothing,435.49,2026-05-24 18:51:40.744064,ADMIN
+196,Forward,Electronics,315.18,2026-05-24 18:51:40.744071,ADMIN
+197,Smile,Toys,972.47,2026-05-24 18:51:40.744078,ADMIN
+198,Future,Electronics,899.94,2026-05-24 18:51:40.744085,ADMIN
+199,Role,Clothing,685.25,2026-05-24 18:51:40.744093,ADMIN
+200,Phone,Sports,111.77,2026-05-24 18:51:40.744101,ADMIN
+201,Turn,Toys,564.28,2026-05-24 18:51:40.744108,ADMIN
+202,Garden,Toys,412.31,2026-05-24 18:51:40.744115,ADMIN
+203,Since,Books,751.98,2026-05-24 18:51:40.744122,ADMIN
+204,Front,Clothing,865.96,2026-05-24 18:51:40.744130,ADMIN
+205,Finish,Toys,812.66,2026-05-24 18:51:40.744137,ADMIN
+206,Book,Beauty,34.54,2026-05-24 18:51:40.744144,ADMIN
+207,Degree,Sports,925.24,2026-05-24 18:51:40.744151,ADMIN
+208,Mention,Toys,931.51,2026-05-24 18:51:40.744158,ADMIN
+209,Yeah,Toys,673.21,2026-05-24 18:51:40.744166,ADMIN
+210,These,Sports,812.64,2026-05-24 18:51:40.744173,ADMIN
+211,State,Home & Kitchen,167.61,2026-05-24 18:51:40.744180,ADMIN
+212,Pm,Sports,117.01,2026-05-24 18:51:40.744187,ADMIN
+213,Pattern,Toys,48.34,2026-05-24 18:51:40.744194,ADMIN
+214,Brother,Beauty,230.21,2026-05-24 18:51:40.744201,ADMIN
+215,Level,Toys,919.27,2026-05-24 18:51:40.744208,ADMIN
+216,Couple,Home & Kitchen,312.14,2026-05-24 18:51:40.744215,ADMIN
+217,Series,Toys,872.61,2026-05-24 18:51:40.744223,ADMIN
+218,Pressure,Clothing,33.43,2026-05-24 18:51:40.744230,ADMIN
+219,Everybody,Clothing,404.48,2026-05-24 18:51:40.744237,ADMIN
+220,Have,Home & Kitchen,865.71,2026-05-24 18:51:40.744245,ADMIN
+221,Born,Toys,286.33,2026-05-24 18:51:40.744252,ADMIN
+222,Everybody,Sports,514.31,2026-05-24 18:51:40.744267,ADMIN
+223,Around,Sports,981.34,2026-05-24 18:51:40.744275,ADMIN
+224,Live,Books,337.84,2026-05-24 18:51:40.744282,ADMIN
+225,Standard,Electronics,124.19,2026-05-24 18:51:40.744289,ADMIN
+226,Develop,Home & Kitchen,186.78,2026-05-24 18:51:40.744296,ADMIN
+227,Begin,Home & Kitchen,47.87,2026-05-24 18:51:40.744303,ADMIN
+228,Building,Books,440.22,2026-05-24 18:51:40.744311,ADMIN
+229,Enough,Sports,788.56,2026-05-24 18:51:40.744318,ADMIN
+230,Soon,Beauty,610.15,2026-05-24 18:51:40.744325,ADMIN
+231,Pretty,Books,124.49,2026-05-24 18:51:40.744332,ADMIN
+232,Know,Books,198.18,2026-05-24 18:51:40.744339,ADMIN
+233,Dog,Electronics,711.7,2026-05-24 18:51:40.744347,ADMIN
+234,Hit,Electronics,524.72,2026-05-24 18:51:40.744355,ADMIN
+235,Type,Toys,543.07,2026-05-24 18:51:40.744362,ADMIN
+236,Here,Sports,940.86,2026-05-24 18:51:40.744369,ADMIN
+237,Employee,Sports,673.92,2026-05-24 18:51:40.744405,ADMIN
+238,Draw,Home & Kitchen,436.98,2026-05-24 18:51:40.744414,ADMIN
+239,Minute,Sports,921.56,2026-05-24 18:51:40.744423,ADMIN
+240,Head,Books,320.78,2026-05-24 18:51:40.744431,ADMIN
+241,Quite,Toys,133.38,2026-05-24 18:51:40.744438,ADMIN
+242,Give,Home & Kitchen,512.05,2026-05-24 18:51:40.744446,ADMIN
+243,Issue,Sports,414.31,2026-05-24 18:51:40.744453,ADMIN
+244,Keep,Beauty,700.24,2026-05-24 18:51:40.744460,ADMIN
+245,Grow,Books,136.01,2026-05-24 18:51:40.744467,ADMIN
+246,System,Beauty,668.28,2026-05-24 18:51:40.744474,ADMIN
+247,Necessary,Beauty,680.54,2026-05-24 18:51:40.744481,ADMIN
+248,I,Clothing,619.36,2026-05-24 18:51:40.744489,ADMIN
+249,Recent,Home & Kitchen,412.01,2026-05-24 18:51:40.744496,ADMIN
+250,Author,Toys,10.4,2026-05-24 18:51:40.744504,ADMIN
+251,President,Home & Kitchen,218.08,2026-05-24 18:51:40.744511,ADMIN
+252,Huge,Toys,584.18,2026-05-24 18:51:40.744518,ADMIN
+253,Coach,Sports,329.03,2026-05-24 18:51:40.744525,ADMIN
+254,Big,Beauty,447.74,2026-05-24 18:51:40.744532,ADMIN
+255,Wear,Clothing,516.06,2026-05-24 18:51:40.744540,ADMIN
+256,Mission,Toys,902.17,2026-05-24 18:51:40.744547,ADMIN
+257,Within,Toys,738.6,2026-05-24 18:51:40.744554,ADMIN
+258,West,Sports,93.95,2026-05-24 18:51:40.744562,ADMIN
+259,Role,Books,667.22,2026-05-24 18:51:40.744569,ADMIN
+260,Hundred,Books,341.84,2026-05-24 18:51:40.744577,ADMIN
+261,Hospital,Toys,952.48,2026-05-24 18:51:40.744584,ADMIN
+262,Build,Clothing,676.07,2026-05-24 18:51:40.744591,ADMIN
+263,Store,Clothing,808.5,2026-05-24 18:51:40.744598,ADMIN
+264,Life,Clothing,34.18,2026-05-24 18:51:40.744606,ADMIN
+265,Citizen,Clothing,984.1,2026-05-24 18:51:40.744613,ADMIN
+266,Product,Books,851.24,2026-05-24 18:51:40.744620,ADMIN
+267,President,Electronics,460.86,2026-05-24 18:51:40.744627,ADMIN
+268,Food,Sports,579.91,2026-05-24 18:51:40.744634,ADMIN
+269,Three,Sports,699.39,2026-05-24 18:51:40.744641,ADMIN
+270,Any,Beauty,405.66,2026-05-24 18:51:40.744649,ADMIN
+271,History,Clothing,659.5,2026-05-24 18:51:40.744656,ADMIN
+272,Yet,Electronics,893.73,2026-05-24 18:51:40.744663,ADMIN
+273,Choice,Toys,772.35,2026-05-24 18:51:40.744670,ADMIN
+274,Themselves,Electronics,780.64,2026-05-24 18:51:40.744678,ADMIN
+275,Leader,Clothing,184.13,2026-05-24 18:51:40.744685,ADMIN
+276,Travel,Sports,522.78,2026-05-24 18:51:40.744692,ADMIN
+277,Great,Electronics,561.83,2026-05-24 18:51:40.744699,ADMIN
+278,Grow,Toys,130.15,2026-05-24 18:51:40.744706,ADMIN
+279,Town,Clothing,803.4,2026-05-24 18:51:40.744713,ADMIN
+280,Movie,Sports,535.82,2026-05-24 18:51:40.744721,ADMIN
+281,Necessary,Books,599.5,2026-05-24 18:51:40.744728,ADMIN
+282,Some,Toys,892.51,2026-05-24 18:51:40.744735,ADMIN
+283,Purpose,Books,816.86,2026-05-24 18:51:40.744742,ADMIN
+284,Ask,Books,432.47,2026-05-24 18:51:40.744750,ADMIN
+285,Month,Books,451.45,2026-05-24 18:51:40.744757,ADMIN
+286,Contain,Clothing,746.22,2026-05-24 18:51:40.744764,ADMIN
+287,Seek,Beauty,455.57,2026-05-24 18:51:40.744771,ADMIN
+288,Lose,Toys,254.77,2026-05-24 18:51:40.744778,ADMIN
+289,Compare,Sports,284.54,2026-05-24 18:51:40.744785,ADMIN
+290,Guy,Toys,526.09,2026-05-24 18:51:40.744792,ADMIN
+291,Onto,Sports,246.85,2026-05-24 18:51:40.744799,ADMIN
+292,Thing,Beauty,86.71,2026-05-24 18:51:40.744806,ADMIN
+293,Baby,Home & Kitchen,242.15,2026-05-24 18:51:40.744814,ADMIN
+294,Red,Home & Kitchen,326.51,2026-05-24 18:51:40.744821,ADMIN
+295,Example,Books,89.77,2026-05-24 18:51:40.744828,ADMIN
+296,Quickly,Clothing,238.95,2026-05-24 18:51:40.744835,ADMIN
+297,Opportunity,Sports,161.28,2026-05-24 18:51:40.744842,ADMIN
+298,Three,Clothing,73.59,2026-05-24 18:51:40.744849,ADMIN
+299,Approach,Beauty,337.57,2026-05-24 18:51:40.744856,ADMIN
+300,Stock,Beauty,421.62,2026-05-24 18:51:40.744864,ADMIN
+301,South,Clothing,834.56,2026-05-24 18:51:40.744871,ADMIN
+302,Major,Beauty,905.79,2026-05-24 18:51:40.744878,ADMIN
+303,Any,Books,946.6,2026-05-24 18:51:40.744885,ADMIN
+304,Energy,Electronics,858.16,2026-05-24 18:51:40.744892,ADMIN
+305,Campaign,Toys,579.93,2026-05-24 18:51:40.744899,ADMIN
+306,Health,Beauty,15.84,2026-05-24 18:51:40.744907,ADMIN
+307,Field,Home & Kitchen,305.63,2026-05-24 18:51:40.744914,ADMIN
+308,West,Beauty,854.91,2026-05-24 18:51:40.744921,ADMIN
+309,Above,Toys,424.83,2026-05-24 18:51:40.744929,ADMIN
+310,Somebody,Sports,737.29,2026-05-24 18:51:40.744936,ADMIN
+311,Hair,Toys,607.22,2026-05-24 18:51:40.744943,ADMIN
+312,Parent,Clothing,493.35,2026-05-24 18:51:40.744951,ADMIN
+313,Across,Home & Kitchen,441.48,2026-05-24 18:51:40.744958,ADMIN
+314,Reduce,Electronics,394.97,2026-05-24 18:51:40.744965,ADMIN
+315,Want,Sports,682.35,2026-05-24 18:51:40.744972,ADMIN
+316,Spring,Beauty,726.94,2026-05-24 18:51:40.744979,ADMIN
+317,Person,Toys,472.72,2026-05-24 18:51:40.744986,ADMIN
+318,Stage,Clothing,980.91,2026-05-24 18:51:40.744993,ADMIN
+319,Both,Books,36.7,2026-05-24 18:51:40.745000,ADMIN
+320,Land,Beauty,595.97,2026-05-24 18:51:40.745008,ADMIN
+321,Modern,Sports,36.83,2026-05-24 18:51:40.745015,ADMIN
+322,Prepare,Sports,434.33,2026-05-24 18:51:40.745022,ADMIN
+323,Face,Toys,467.08,2026-05-24 18:51:40.745029,ADMIN
+324,Food,Electronics,267.55,2026-05-24 18:51:40.745036,ADMIN
+325,Week,Home & Kitchen,219.54,2026-05-24 18:51:40.745044,ADMIN
+326,New,Home & Kitchen,344.13,2026-05-24 18:51:40.745051,ADMIN
+327,Produce,Beauty,285.47,2026-05-24 18:51:40.745058,ADMIN
+328,Popular,Toys,427.35,2026-05-24 18:51:40.745065,ADMIN
+329,Research,Toys,91.09,2026-05-24 18:51:40.745072,ADMIN
+330,Recognize,Electronics,751.53,2026-05-24 18:51:40.745079,ADMIN
+331,Wrong,Electronics,999.91,2026-05-24 18:51:40.745086,ADMIN
+332,Own,Home & Kitchen,231.98,2026-05-24 18:51:40.745094,ADMIN
+333,Current,Electronics,783.42,2026-05-24 18:51:40.745101,ADMIN
+334,Environment,Sports,49.86,2026-05-24 18:51:40.745108,ADMIN
+335,Yeah,Electronics,950.12,2026-05-24 18:51:40.745115,ADMIN
+336,Citizen,Clothing,840.84,2026-05-24 18:51:40.745122,ADMIN
+337,Magazine,Books,160.86,2026-05-24 18:51:40.745129,ADMIN
+338,Another,Clothing,478.83,2026-05-24 18:51:40.745136,ADMIN
+339,Push,Electronics,568.33,2026-05-24 18:51:40.745145,ADMIN
+340,Cut,Clothing,470.38,2026-05-24 18:51:40.745152,ADMIN
+341,Possible,Home & Kitchen,769.23,2026-05-24 18:51:40.745159,ADMIN
+342,Choice,Clothing,609.83,2026-05-24 18:51:40.745166,ADMIN
+343,Ahead,Sports,721.17,2026-05-24 18:51:40.745173,ADMIN
+344,Fall,Toys,821.11,2026-05-24 18:51:40.745180,ADMIN
+345,Believe,Home & Kitchen,117.02,2026-05-24 18:51:40.745187,ADMIN
+346,But,Electronics,929.6,2026-05-24 18:51:40.745194,ADMIN
+347,Two,Books,680.57,2026-05-24 18:51:40.745201,ADMIN
+348,Develop,Beauty,402.69,2026-05-24 18:51:40.745209,ADMIN
+349,Today,Sports,206.35,2026-05-24 18:51:40.745216,ADMIN
+350,Subject,Books,693.71,2026-05-24 18:51:40.745223,ADMIN
+351,Wear,Sports,250.42,2026-05-24 18:51:40.745230,ADMIN
+352,Sister,Sports,774.76,2026-05-24 18:51:40.745237,ADMIN
+353,Wife,Toys,687.42,2026-05-24 18:51:40.745244,ADMIN
+354,Yes,Toys,129.84,2026-05-24 18:51:40.745252,ADMIN
+355,Chance,Books,784.81,2026-05-24 18:51:40.745259,ADMIN
+356,Themselves,Home & Kitchen,537.42,2026-05-24 18:51:40.745266,ADMIN
+357,Industry,Sports,376.87,2026-05-24 18:51:40.745273,ADMIN
+358,Training,Books,651.07,2026-05-24 18:51:40.745280,ADMIN
+359,Computer,Electronics,851.08,2026-05-24 18:51:40.745287,ADMIN
+360,Order,Toys,495.3,2026-05-24 18:51:40.745295,ADMIN
+361,Difficult,Beauty,961.18,2026-05-24 18:51:40.745302,ADMIN
+362,Trial,Sports,892.66,2026-05-24 18:51:40.745309,ADMIN
+363,Really,Beauty,710.24,2026-05-24 18:51:40.745316,ADMIN
+364,Everybody,Beauty,184.38,2026-05-24 18:51:40.745323,ADMIN
+365,Direction,Books,965.82,2026-05-24 18:51:40.745330,ADMIN
+366,Foreign,Home & Kitchen,619.75,2026-05-24 18:51:40.745337,ADMIN
+367,Since,Books,776.9,2026-05-24 18:51:40.745345,ADMIN
+368,Dinner,Beauty,441.22,2026-05-24 18:51:40.745352,ADMIN
+369,Team,Sports,596.55,2026-05-24 18:51:40.745359,ADMIN
+370,Hand,Home & Kitchen,853.2,2026-05-24 18:51:40.745366,ADMIN
+371,Economy,Toys,935.28,2026-05-24 18:51:40.745374,ADMIN
+372,Majority,Home & Kitchen,882.81,2026-05-24 18:51:40.745381,ADMIN
+373,Almost,Clothing,752.97,2026-05-24 18:51:40.745388,ADMIN
+374,Player,Books,614.23,2026-05-24 18:51:40.745395,ADMIN
+375,Tax,Beauty,343.03,2026-05-24 18:51:40.745402,ADMIN
+376,Maybe,Beauty,852.44,2026-05-24 18:51:40.745409,ADMIN
+377,Road,Clothing,492.67,2026-05-24 18:51:40.745416,ADMIN
+378,Parent,Home & Kitchen,799.85,2026-05-24 18:51:40.745423,ADMIN
+379,Question,Home & Kitchen,286.86,2026-05-24 18:51:40.745430,ADMIN
+380,Worker,Books,704.17,2026-05-24 18:51:40.745437,ADMIN
+381,Personal,Home & Kitchen,560.23,2026-05-24 18:51:40.745444,ADMIN
+382,Along,Books,948.58,2026-05-24 18:51:40.745452,ADMIN
+383,Part,Electronics,248.94,2026-05-24 18:51:40.745459,ADMIN
+384,Market,Beauty,493.69,2026-05-24 18:51:40.745466,ADMIN
+385,Represent,Toys,247.92,2026-05-24 18:51:40.745473,ADMIN
+386,Think,Beauty,649.44,2026-05-24 18:51:40.745480,ADMIN
+387,Amount,Beauty,453.69,2026-05-24 18:51:40.745487,ADMIN
+388,Try,Electronics,102.12,2026-05-24 18:51:40.745494,ADMIN
+389,Discover,Clothing,410.36,2026-05-24 18:51:40.745501,ADMIN
+390,Least,Clothing,313.14,2026-05-24 18:51:40.745508,ADMIN
+391,Blood,Books,375.33,2026-05-24 18:51:40.745515,ADMIN
+392,Thus,Books,535.61,2026-05-24 18:51:40.745523,ADMIN
+393,Worry,Beauty,996.67,2026-05-24 18:51:40.745530,ADMIN
+394,Score,Books,337.48,2026-05-24 18:51:40.745537,ADMIN
+395,Need,Sports,459.21,2026-05-24 18:51:40.745544,ADMIN
+396,His,Home & Kitchen,258.89,2026-05-24 18:51:40.745551,ADMIN
+397,Stuff,Electronics,724.07,2026-05-24 18:51:40.745558,ADMIN
+398,Become,Home & Kitchen,128.36,2026-05-24 18:51:40.745565,ADMIN
+399,Can,Books,951.37,2026-05-24 18:51:40.745573,ADMIN
+400,Have,Sports,193.3,2026-05-24 18:51:40.745580,ADMIN
+401,Appear,Clothing,741.22,2026-05-24 18:51:40.745587,ADMIN
+402,Peace,Home & Kitchen,727.34,2026-05-24 18:51:40.745595,ADMIN
+403,Consumer,Toys,529.39,2026-05-24 18:51:40.745603,ADMIN
+404,Mouth,Home & Kitchen,980.71,2026-05-24 18:51:40.745610,ADMIN
+405,Operation,Toys,202.18,2026-05-24 18:51:40.745618,ADMIN
+406,Risk,Clothing,367.27,2026-05-24 18:51:40.745625,ADMIN
+407,Case,Home & Kitchen,24.01,2026-05-24 18:51:40.745632,ADMIN
+408,Show,Books,135.32,2026-05-24 18:51:40.745639,ADMIN
+409,Store,Electronics,974.55,2026-05-24 18:51:40.745646,ADMIN
+410,Effort,Books,299.22,2026-05-24 18:51:40.745653,ADMIN
+411,Painting,Clothing,641.49,2026-05-24 18:51:40.745660,ADMIN
+412,Far,Toys,495.97,2026-05-24 18:51:40.745668,ADMIN
+413,Experience,Toys,22.14,2026-05-24 18:51:40.745675,ADMIN
+414,War,Home & Kitchen,474.7,2026-05-24 18:51:40.745682,ADMIN
+415,Center,Beauty,347.3,2026-05-24 18:51:40.745689,ADMIN
+416,Listen,Electronics,259.95,2026-05-24 18:51:40.745696,ADMIN
+417,Citizen,Toys,482.95,2026-05-24 18:51:40.745703,ADMIN
+418,Entire,Toys,74.69,2026-05-24 18:51:40.745710,ADMIN
+419,Economic,Beauty,83.34,2026-05-24 18:51:40.745717,ADMIN
+420,Test,Sports,689.59,2026-05-24 18:51:40.745724,ADMIN
+421,Media,Clothing,157.71,2026-05-24 18:51:40.745732,ADMIN
+422,Professional,Books,949.63,2026-05-24 18:51:40.745739,ADMIN
+423,Material,Electronics,993.98,2026-05-24 18:51:40.745746,ADMIN
+424,Guy,Electronics,562.49,2026-05-24 18:51:40.745753,ADMIN
+425,Today,Beauty,610.25,2026-05-24 18:51:40.745760,ADMIN
+426,Wall,Toys,622.23,2026-05-24 18:51:40.745767,ADMIN
+427,Wall,Toys,527.35,2026-05-24 18:51:40.745775,ADMIN
+428,Window,Beauty,909.42,2026-05-24 18:51:40.745782,ADMIN
+429,Billion,Home & Kitchen,861.56,2026-05-24 18:51:40.745789,ADMIN
+430,Left,Beauty,312.33,2026-05-24 18:51:40.745796,ADMIN
+431,Story,Books,69.63,2026-05-24 18:51:40.745803,ADMIN
+432,Respond,Sports,108.24,2026-05-24 18:51:40.745810,ADMIN
+433,Community,Toys,215.71,2026-05-24 18:51:40.745817,ADMIN
+434,Put,Clothing,272.0,2026-05-24 18:51:40.745824,ADMIN
+435,Task,Electronics,165.49,2026-05-24 18:51:40.745834,ADMIN
+436,Available,Clothing,556.47,2026-05-24 18:51:40.745842,ADMIN
+437,Southern,Clothing,12.65,2026-05-24 18:51:40.745850,ADMIN
+438,Relate,Beauty,692.48,2026-05-24 18:51:40.745858,ADMIN
+439,Meeting,Beauty,298.35,2026-05-24 18:51:40.745867,ADMIN
+440,Hair,Clothing,295.22,2026-05-24 18:51:40.745874,ADMIN
+441,Focus,Home & Kitchen,705.96,2026-05-24 18:51:40.745881,ADMIN
+442,Describe,Beauty,80.47,2026-05-24 18:51:40.745888,ADMIN
+443,Film,Clothing,924.67,2026-05-24 18:51:40.745895,ADMIN
+444,Just,Toys,793.34,2026-05-24 18:51:40.745902,ADMIN
+445,Open,Books,664.57,2026-05-24 18:51:40.745909,ADMIN
+446,Baby,Clothing,430.89,2026-05-24 18:51:40.745916,ADMIN
+447,Knowledge,Books,232.56,2026-05-24 18:51:40.745923,ADMIN
+448,Stand,Clothing,909.33,2026-05-24 18:51:40.745930,ADMIN
+449,Tv,Toys,150.81,2026-05-24 18:51:40.745937,ADMIN
+450,Either,Electronics,174.26,2026-05-24 18:51:40.745944,ADMIN
+451,Color,Home & Kitchen,599.09,2026-05-24 18:51:40.745952,ADMIN
+452,Start,Toys,573.51,2026-05-24 18:51:40.745959,ADMIN
+453,Modern,Home & Kitchen,444.76,2026-05-24 18:51:40.745966,ADMIN
+454,He,Beauty,691.79,2026-05-24 18:51:40.745973,ADMIN
+455,Heart,Sports,408.48,2026-05-24 18:51:40.745980,ADMIN
+456,Yourself,Home & Kitchen,505.47,2026-05-24 18:51:40.745987,ADMIN
+457,Half,Beauty,443.38,2026-05-24 18:51:40.745994,ADMIN
+458,Find,Books,49.46,2026-05-24 18:51:40.746003,ADMIN
+459,Remain,Beauty,737.19,2026-05-24 18:51:40.746010,ADMIN
+460,Century,Books,257.86,2026-05-24 18:51:40.746017,ADMIN
+461,Real,Electronics,236.64,2026-05-24 18:51:40.746024,ADMIN
+462,Follow,Sports,837.6,2026-05-24 18:51:40.746031,ADMIN
+463,Physical,Books,591.25,2026-05-24 18:51:40.746038,ADMIN
+464,In,Electronics,999.58,2026-05-24 18:51:40.746045,ADMIN
+465,Professional,Sports,823.21,2026-05-24 18:51:40.746052,ADMIN
+466,Community,Books,49.83,2026-05-24 18:51:40.746059,ADMIN
+467,Me,Toys,183.44,2026-05-24 18:51:40.746066,ADMIN
+468,Story,Books,654.99,2026-05-24 18:51:40.746073,ADMIN
+469,Radio,Home & Kitchen,189.67,2026-05-24 18:51:40.746081,ADMIN
+470,Begin,Books,441.53,2026-05-24 18:51:40.746088,ADMIN
+471,Account,Toys,496.81,2026-05-24 18:51:40.746095,ADMIN
+472,Most,Electronics,475.31,2026-05-24 18:51:40.746102,ADMIN
+473,Month,Beauty,339.98,2026-05-24 18:51:40.746109,ADMIN
+474,Almost,Sports,113.55,2026-05-24 18:51:40.746116,ADMIN
+475,Factor,Clothing,336.51,2026-05-24 18:51:40.746123,ADMIN
+476,Leg,Sports,500.51,2026-05-24 18:51:40.746130,ADMIN
+477,Offer,Sports,945.74,2026-05-24 18:51:40.746137,ADMIN
+478,Property,Toys,762.89,2026-05-24 18:51:40.746144,ADMIN
+479,Side,Electronics,460.28,2026-05-24 18:51:40.746152,ADMIN
+480,Campaign,Home & Kitchen,259.87,2026-05-24 18:51:40.746159,ADMIN
+481,Property,Electronics,970.48,2026-05-24 18:51:40.746166,ADMIN
+482,Management,Beauty,866.26,2026-05-24 18:51:40.746173,ADMIN
+483,Idea,Toys,988.24,2026-05-24 18:51:40.746181,ADMIN
+484,Table,Sports,870.67,2026-05-24 18:51:40.746188,ADMIN
+485,Official,Beauty,419.12,2026-05-24 18:51:40.746195,ADMIN
+486,Note,Clothing,523.25,2026-05-24 18:51:40.746202,ADMIN
+487,Friend,Books,758.88,2026-05-24 18:51:40.746209,ADMIN
+488,Little,Sports,447.62,2026-05-24 18:51:40.746216,ADMIN
+489,Together,Electronics,211.52,2026-05-24 18:51:40.746223,ADMIN
+490,Dark,Books,139.7,2026-05-24 18:51:40.746230,ADMIN
+491,Boy,Home & Kitchen,443.73,2026-05-24 18:51:40.746238,ADMIN
+492,Quickly,Sports,489.86,2026-05-24 18:51:40.746245,ADMIN
+493,Increase,Electronics,973.42,2026-05-24 18:51:40.746252,ADMIN
+494,Street,Books,801.32,2026-05-24 18:51:40.746259,ADMIN
+495,Ahead,Sports,166.79,2026-05-24 18:51:40.746270,ADMIN
+496,And,Books,23.54,2026-05-24 18:51:40.746277,ADMIN
+497,Quality,Beauty,102.28,2026-05-24 18:51:40.746284,ADMIN
+498,Federal,Toys,913.8,2026-05-24 18:51:40.746291,ADMIN
+499,Student,Beauty,947.59,2026-05-24 18:51:40.746298,ADMIN
+500,Body,Sports,833.82,2026-05-24 18:51:40.746305,ADMIN
+501,Be,Beauty,933.33,2026-05-24 18:51:40.746312,ADMIN
+502,Space,Home & Kitchen,513.78,2026-05-24 18:51:40.746320,ADMIN
+503,American,Home & Kitchen,421.34,2026-05-24 18:51:40.746327,ADMIN
+504,Position,Beauty,980.44,2026-05-24 18:51:40.746334,ADMIN
+505,Situation,Clothing,462.22,2026-05-24 18:51:40.746341,ADMIN
+506,Situation,Clothing,389.75,2026-05-24 18:51:40.746348,ADMIN
+507,Receive,Books,513.16,2026-05-24 18:51:40.746356,ADMIN
+508,Nearly,Clothing,865.39,2026-05-24 18:51:40.746363,ADMIN
+509,Act,Home & Kitchen,774.95,2026-05-24 18:51:40.746370,ADMIN
+510,Deep,Toys,420.79,2026-05-24 18:51:40.746377,ADMIN
+511,Night,Toys,512.66,2026-05-24 18:51:40.746384,ADMIN
+512,Trip,Toys,12.54,2026-05-24 18:51:40.746391,ADMIN
+513,Alone,Sports,305.57,2026-05-24 18:51:40.746399,ADMIN
+514,Little,Books,584.12,2026-05-24 18:51:40.746406,ADMIN
+515,Least,Sports,494.74,2026-05-24 18:51:40.746413,ADMIN
+516,Speech,Clothing,452.08,2026-05-24 18:51:40.746420,ADMIN
+517,Key,Beauty,351.67,2026-05-24 18:51:40.746427,ADMIN
+518,Husband,Books,765.24,2026-05-24 18:51:40.746434,ADMIN
+519,Music,Beauty,460.79,2026-05-24 18:51:40.746441,ADMIN
+520,Pass,Home & Kitchen,870.91,2026-05-24 18:51:40.746449,ADMIN
+521,Guy,Sports,246.42,2026-05-24 18:51:40.746456,ADMIN
+522,These,Beauty,241.23,2026-05-24 18:51:40.746465,ADMIN
+523,Century,Toys,416.67,2026-05-24 18:51:40.746472,ADMIN
+524,Claim,Home & Kitchen,747.26,2026-05-24 18:51:40.746479,ADMIN
+525,Use,Sports,914.3,2026-05-24 18:51:40.746486,ADMIN
+526,Effort,Beauty,392.22,2026-05-24 18:51:40.746493,ADMIN
+527,Magazine,Sports,794.47,2026-05-24 18:51:40.746500,ADMIN
+528,Myself,Sports,981.01,2026-05-24 18:51:40.746507,ADMIN
+529,Yard,Beauty,965.18,2026-05-24 18:51:40.746514,ADMIN
+530,Home,Clothing,507.27,2026-05-24 18:51:40.746522,ADMIN
+531,Establish,Books,338.67,2026-05-24 18:51:40.746529,ADMIN
+532,Son,Electronics,875.45,2026-05-24 18:51:40.746536,ADMIN
+533,Dark,Beauty,108.71,2026-05-24 18:51:40.746543,ADMIN
+534,Early,Beauty,25.19,2026-05-24 18:51:40.746551,ADMIN
+535,People,Clothing,415.88,2026-05-24 18:51:40.746558,ADMIN
+536,Crime,Sports,970.26,2026-05-24 18:51:40.746565,ADMIN
+537,Line,Electronics,474.8,2026-05-24 18:51:40.746572,ADMIN
+538,White,Home & Kitchen,345.18,2026-05-24 18:51:40.746579,ADMIN
+539,Put,Sports,403.51,2026-05-24 18:51:40.746586,ADMIN
+540,Push,Electronics,853.25,2026-05-24 18:51:40.746593,ADMIN
+541,Already,Toys,677.61,2026-05-24 18:51:40.746600,ADMIN
+542,Value,Books,386.21,2026-05-24 18:51:40.746607,ADMIN
+543,Book,Home & Kitchen,630.53,2026-05-24 18:51:40.746614,ADMIN
+544,Stay,Toys,493.07,2026-05-24 18:51:40.746622,ADMIN
+545,Another,Books,45.54,2026-05-24 18:51:40.746629,ADMIN
+546,Player,Electronics,242.42,2026-05-24 18:51:40.746636,ADMIN
+547,Commercial,Sports,921.72,2026-05-24 18:51:40.746643,ADMIN
+548,Already,Clothing,749.3,2026-05-24 18:51:40.746650,ADMIN
+549,Tonight,Beauty,978.55,2026-05-24 18:51:40.746657,ADMIN
+550,Blue,Toys,637.41,2026-05-24 18:51:40.746664,ADMIN
+551,Trial,Toys,109.5,2026-05-24 18:51:40.746671,ADMIN
+552,Win,Clothing,697.06,2026-05-24 18:51:40.746678,ADMIN
+553,He,Electronics,55.53,2026-05-24 18:51:40.746685,ADMIN
+554,Though,Toys,65.56,2026-05-24 18:51:40.746692,ADMIN
+555,Anyone,Home & Kitchen,381.09,2026-05-24 18:51:40.746699,ADMIN
+556,Clearly,Clothing,251.76,2026-05-24 18:51:40.746706,ADMIN
+557,Five,Beauty,570.27,2026-05-24 18:51:40.746714,ADMIN
+558,Pattern,Toys,188.26,2026-05-24 18:51:40.746721,ADMIN
+559,Difficult,Clothing,88.18,2026-05-24 18:51:40.746728,ADMIN
+560,Society,Toys,388.72,2026-05-24 18:51:40.746736,ADMIN
+561,Many,Sports,248.42,2026-05-24 18:51:40.746743,ADMIN
+562,Finally,Books,151.69,2026-05-24 18:51:40.746750,ADMIN
+563,Bit,Beauty,641.53,2026-05-24 18:51:40.746757,ADMIN
+564,Huge,Beauty,262.77,2026-05-24 18:51:40.746764,ADMIN
+565,Heavy,Electronics,899.92,2026-05-24 18:51:40.746771,ADMIN
+566,Federal,Beauty,902.2,2026-05-24 18:51:40.746778,ADMIN
+567,Keep,Sports,551.13,2026-05-24 18:51:40.746786,ADMIN
+568,Door,Electronics,447.31,2026-05-24 18:51:40.746793,ADMIN
+569,Professor,Home & Kitchen,987.78,2026-05-24 18:51:40.746800,ADMIN
+570,Just,Home & Kitchen,642.55,2026-05-24 18:51:40.746807,ADMIN
+571,Body,Beauty,693.41,2026-05-24 18:51:40.746814,ADMIN
+572,How,Beauty,846.85,2026-05-24 18:51:40.746821,ADMIN
+573,Billion,Clothing,999.38,2026-05-24 18:51:40.746828,ADMIN
+574,Week,Toys,488.38,2026-05-24 18:51:40.746835,ADMIN
+575,Art,Clothing,387.55,2026-05-24 18:51:40.746842,ADMIN
+576,Specific,Home & Kitchen,579.06,2026-05-24 18:51:40.746850,ADMIN
+577,Fight,Sports,302.28,2026-05-24 18:51:40.746857,ADMIN
+578,National,Toys,661.65,2026-05-24 18:51:40.746864,ADMIN
+579,Word,Home & Kitchen,18.02,2026-05-24 18:51:40.746871,ADMIN
+580,Sea,Toys,688.94,2026-05-24 18:51:40.746878,ADMIN
+581,Far,Sports,973.87,2026-05-24 18:51:40.746886,ADMIN
+582,Bill,Books,747.72,2026-05-24 18:51:40.746893,ADMIN
+583,Rule,Toys,905.11,2026-05-24 18:51:40.746900,ADMIN
+584,Reach,Home & Kitchen,777.98,2026-05-24 18:51:40.746907,ADMIN
+585,Bag,Clothing,610.99,2026-05-24 18:51:40.746914,ADMIN
+586,Project,Home & Kitchen,226.81,2026-05-24 18:51:40.746921,ADMIN
+587,Truth,Clothing,624.68,2026-05-24 18:51:40.746928,ADMIN
+588,Message,Sports,758.02,2026-05-24 18:51:40.746935,ADMIN
+589,Purpose,Toys,662.59,2026-05-24 18:51:40.746942,ADMIN
+590,Music,Toys,145.41,2026-05-24 18:51:40.746950,ADMIN
+591,Thought,Electronics,904.37,2026-05-24 18:51:40.746957,ADMIN
+592,After,Sports,49.03,2026-05-24 18:51:40.746964,ADMIN
+593,Exist,Toys,446.41,2026-05-24 18:51:40.746971,ADMIN
+594,Account,Books,371.21,2026-05-24 18:51:40.746979,ADMIN
+595,Marriage,Clothing,99.23,2026-05-24 18:51:40.746986,ADMIN
+596,Early,Home & Kitchen,333.45,2026-05-24 18:51:40.746993,ADMIN
+597,Discussion,Beauty,183.88,2026-05-24 18:51:40.747000,ADMIN
+598,Rest,Clothing,788.65,2026-05-24 18:51:40.747008,ADMIN
+599,Left,Home & Kitchen,535.54,2026-05-24 18:51:40.747015,ADMIN
+600,Population,Home & Kitchen,832.17,2026-05-24 18:51:40.747023,ADMIN
+601,Budget,Home & Kitchen,914.91,2026-05-24 18:51:40.747030,ADMIN
+602,Draw,Beauty,967.71,2026-05-24 18:51:40.747037,ADMIN
+603,Republican,Home & Kitchen,749.09,2026-05-24 18:51:40.747044,ADMIN
+604,Long,Home & Kitchen,806.19,2026-05-24 18:51:40.747052,ADMIN
+605,Out,Beauty,963.26,2026-05-24 18:51:40.747059,ADMIN
+606,Investment,Clothing,756.61,2026-05-24 18:51:40.747066,ADMIN
+607,Realize,Clothing,861.54,2026-05-24 18:51:40.747073,ADMIN
+608,Read,Sports,677.66,2026-05-24 18:51:40.747080,ADMIN
+609,Dog,Beauty,967.6,2026-05-24 18:51:40.747087,ADMIN
+610,Woman,Toys,561.74,2026-05-24 18:51:40.747094,ADMIN
+611,Child,Electronics,792.78,2026-05-24 18:51:40.747101,ADMIN
+612,Dark,Electronics,271.81,2026-05-24 18:51:40.747108,ADMIN
+613,Ball,Electronics,460.24,2026-05-24 18:51:40.747115,ADMIN
+614,Themselves,Sports,751.52,2026-05-24 18:51:40.747122,ADMIN
+615,Allow,Home & Kitchen,588.71,2026-05-24 18:51:40.747129,ADMIN
+616,Attorney,Toys,642.16,2026-05-24 18:51:40.747136,ADMIN
+617,Near,Home & Kitchen,117.26,2026-05-24 18:51:40.747144,ADMIN
+618,Movement,Clothing,476.76,2026-05-24 18:51:40.747151,ADMIN
+619,Situation,Books,885.39,2026-05-24 18:51:40.747158,ADMIN
+620,Treatment,Books,334.73,2026-05-24 18:51:40.747165,ADMIN
+621,Mouth,Books,229.15,2026-05-24 18:51:40.747172,ADMIN
+622,Door,Electronics,639.05,2026-05-24 18:51:40.747179,ADMIN
+623,Real,Beauty,910.29,2026-05-24 18:51:40.747186,ADMIN
+624,Area,Home & Kitchen,652.75,2026-05-24 18:51:40.747193,ADMIN
+625,End,Electronics,148.38,2026-05-24 18:51:40.747200,ADMIN
+626,Maintain,Electronics,311.32,2026-05-24 18:51:40.747207,ADMIN
+627,Loss,Beauty,124.96,2026-05-24 18:51:40.747214,ADMIN
+628,Natural,Clothing,888.39,2026-05-24 18:51:40.747222,ADMIN
+629,Social,Clothing,394.76,2026-05-24 18:51:40.747229,ADMIN
+630,Four,Home & Kitchen,673.78,2026-05-24 18:51:40.747236,ADMIN
+631,Water,Sports,699.52,2026-05-24 18:51:40.747243,ADMIN
+632,Avoid,Books,424.94,2026-05-24 18:51:40.747251,ADMIN
+633,Hope,Sports,729.33,2026-05-24 18:51:40.747258,ADMIN
+634,Prevent,Beauty,658.37,2026-05-24 18:51:40.747265,ADMIN
+635,Current,Toys,494.45,2026-05-24 18:51:40.747272,ADMIN
+636,National,Beauty,939.66,2026-05-24 18:51:40.747279,ADMIN
+637,Show,Home & Kitchen,42.39,2026-05-24 18:51:40.747286,ADMIN
+638,Can,Home & Kitchen,225.1,2026-05-24 18:51:40.747293,ADMIN
+639,Man,Beauty,951.05,2026-05-24 18:51:40.747300,ADMIN
+640,Raise,Toys,369.06,2026-05-24 18:51:40.747308,ADMIN
+641,Force,Sports,373.66,2026-05-24 18:51:40.747315,ADMIN
+642,Five,Sports,365.09,2026-05-24 18:51:40.747322,ADMIN
+643,Protect,Beauty,283.12,2026-05-24 18:51:40.747329,ADMIN
+644,Head,Electronics,949.52,2026-05-24 18:51:40.747336,ADMIN
+645,Enjoy,Toys,460.17,2026-05-24 18:51:40.747343,ADMIN
+646,Include,Sports,219.98,2026-05-24 18:51:40.747350,ADMIN
+647,Surface,Sports,601.17,2026-05-24 18:51:40.747357,ADMIN
+648,Low,Electronics,60.07,2026-05-24 18:51:40.747364,ADMIN
+649,New,Home & Kitchen,251.13,2026-05-24 18:51:40.747371,ADMIN
+650,Whether,Clothing,789.11,2026-05-24 18:51:40.747378,ADMIN
+651,Draw,Clothing,77.92,2026-05-24 18:51:40.747385,ADMIN
+652,Culture,Toys,558.67,2026-05-24 18:51:40.747393,ADMIN
+653,Away,Books,223.79,2026-05-24 18:51:40.747400,ADMIN
+654,Anything,Toys,240.67,2026-05-24 18:51:40.747407,ADMIN
+655,Shoulder,Toys,156.08,2026-05-24 18:51:40.747414,ADMIN
+656,Try,Books,12.81,2026-05-24 18:51:40.747421,ADMIN
+657,Air,Toys,984.19,2026-05-24 18:51:40.747429,ADMIN
+658,Whose,Clothing,544.81,2026-05-24 18:51:40.747436,ADMIN
+659,Most,Toys,182.75,2026-05-24 18:51:40.747443,ADMIN
+660,Others,Sports,867.78,2026-05-24 18:51:40.747450,ADMIN
+661,Goal,Clothing,24.71,2026-05-24 18:51:40.747457,ADMIN
+662,Forward,Toys,790.55,2026-05-24 18:51:40.747465,ADMIN
+663,Safe,Books,330.53,2026-05-24 18:51:40.747472,ADMIN
+664,Drive,Clothing,272.71,2026-05-24 18:51:40.747478,ADMIN
+665,Never,Clothing,744.3,2026-05-24 18:51:40.747486,ADMIN
+666,City,Books,122.51,2026-05-24 18:51:40.747493,ADMIN
+667,Discussion,Electronics,481.48,2026-05-24 18:51:40.747500,ADMIN
+668,Tree,Toys,368.42,2026-05-24 18:51:40.747507,ADMIN
+669,Sing,Books,117.96,2026-05-24 18:51:40.747514,ADMIN
+670,Science,Books,229.33,2026-05-24 18:51:40.747521,ADMIN
+671,Same,Books,52.93,2026-05-24 18:51:40.747529,ADMIN
+672,Technology,Toys,909.66,2026-05-24 18:51:40.747536,ADMIN
+673,Concern,Sports,526.24,2026-05-24 18:51:40.747543,ADMIN
+674,Live,Beauty,646.91,2026-05-24 18:51:40.747552,ADMIN
+675,Tend,Electronics,70.22,2026-05-24 18:51:40.747559,ADMIN
+676,Clearly,Beauty,848.83,2026-05-24 18:51:40.747566,ADMIN
+677,Major,Beauty,689.24,2026-05-24 18:51:40.747573,ADMIN
+678,Above,Beauty,715.28,2026-05-24 18:51:40.747580,ADMIN
+679,Commercial,Beauty,82.76,2026-05-24 18:51:40.747587,ADMIN
+680,Huge,Electronics,328.89,2026-05-24 18:51:40.747594,ADMIN
+681,Nor,Clothing,75.03,2026-05-24 18:51:40.747601,ADMIN
+682,Coach,Home & Kitchen,628.07,2026-05-24 18:51:40.747608,ADMIN
+683,Book,Books,552.87,2026-05-24 18:51:40.747615,ADMIN
+684,Treatment,Home & Kitchen,387.1,2026-05-24 18:51:40.747622,ADMIN
+685,Attorney,Books,535.25,2026-05-24 18:51:40.747629,ADMIN
+686,Economy,Beauty,510.5,2026-05-24 18:51:40.747636,ADMIN
+687,Skill,Beauty,108.19,2026-05-24 18:51:40.747644,ADMIN
+688,Change,Sports,123.27,2026-05-24 18:51:40.747651,ADMIN
+689,Develop,Sports,654.41,2026-05-24 18:51:40.747658,ADMIN
+690,Car,Toys,555.82,2026-05-24 18:51:40.747665,ADMIN
+691,Up,Toys,222.87,2026-05-24 18:51:40.747672,ADMIN
+692,American,Beauty,889.21,2026-05-24 18:51:40.747679,ADMIN
+693,Wide,Beauty,345.54,2026-05-24 18:51:40.747686,ADMIN
+694,Approach,Beauty,404.74,2026-05-24 18:51:40.747693,ADMIN
+695,Push,Sports,104.13,2026-05-24 18:51:40.747703,ADMIN
+696,Offer,Beauty,319.4,2026-05-24 18:51:40.747711,ADMIN
+697,Star,Home & Kitchen,380.56,2026-05-24 18:51:40.747719,ADMIN
+698,Develop,Clothing,689.95,2026-05-24 18:51:40.747727,ADMIN
+699,Such,Beauty,76.46,2026-05-24 18:51:40.747735,ADMIN
+700,Education,Toys,94.51,2026-05-24 18:51:40.747744,ADMIN
+701,Thought,Beauty,105.6,2026-05-24 18:51:40.747751,ADMIN
+702,Culture,Sports,378.92,2026-05-24 18:51:40.747758,ADMIN
+703,Scene,Clothing,560.81,2026-05-24 18:51:40.747765,ADMIN
+704,Manage,Books,957.06,2026-05-24 18:51:40.747773,ADMIN
+705,Myself,Books,336.35,2026-05-24 18:51:40.747780,ADMIN
+706,Only,Electronics,416.7,2026-05-24 18:51:40.747787,ADMIN
+707,Sister,Toys,668.69,2026-05-24 18:51:40.747794,ADMIN
+708,Technology,Toys,428.71,2026-05-24 18:51:40.747801,ADMIN
+709,Last,Sports,60.93,2026-05-24 18:51:40.747810,ADMIN
+710,Include,Home & Kitchen,604.41,2026-05-24 18:51:40.747819,ADMIN
+711,Live,Home & Kitchen,112.56,2026-05-24 18:51:40.747827,ADMIN
+712,Case,Books,220.61,2026-05-24 18:51:40.747835,ADMIN
+713,Positive,Sports,487.37,2026-05-24 18:51:40.747844,ADMIN
+714,Feeling,Toys,117.14,2026-05-24 18:51:40.747852,ADMIN
+715,End,Toys,560.7,2026-05-24 18:51:40.747860,ADMIN
+716,Style,Electronics,764.98,2026-05-24 18:51:40.747869,ADMIN
+717,Peace,Books,233.9,2026-05-24 18:51:40.747878,ADMIN
+718,Night,Beauty,846.7,2026-05-24 18:51:40.747885,ADMIN
+719,Like,Toys,820.24,2026-05-24 18:51:40.747893,ADMIN
+720,Moment,Books,678.23,2026-05-24 18:51:40.747900,ADMIN
+721,Charge,Books,35.99,2026-05-24 18:51:40.747908,ADMIN
+722,Mention,Sports,831.17,2026-05-24 18:51:40.747915,ADMIN
+723,Agree,Home & Kitchen,38.66,2026-05-24 18:51:40.747923,ADMIN
+724,Add,Home & Kitchen,705.67,2026-05-24 18:51:40.747930,ADMIN
+725,Stay,Home & Kitchen,922.32,2026-05-24 18:51:40.747937,ADMIN
+726,Mission,Home & Kitchen,16.04,2026-05-24 18:51:40.747944,ADMIN
+727,Throughout,Toys,151.82,2026-05-24 18:51:40.747953,ADMIN
+728,Realize,Sports,406.78,2026-05-24 18:51:40.747962,ADMIN
+729,Response,Clothing,743.56,2026-05-24 18:51:40.747970,ADMIN
+730,Establish,Electronics,100.84,2026-05-24 18:51:40.747978,ADMIN
+731,Add,Books,222.98,2026-05-24 18:51:40.747986,ADMIN
+732,Into,Beauty,459.11,2026-05-24 18:51:40.747996,ADMIN
+733,Seek,Clothing,376.35,2026-05-24 18:51:40.748005,ADMIN
+734,Share,Sports,331.14,2026-05-24 18:51:40.748014,ADMIN
+735,Away,Books,600.26,2026-05-24 18:51:40.748022,ADMIN
+736,In,Electronics,164.02,2026-05-24 18:51:40.748030,ADMIN
+737,Field,Toys,621.66,2026-05-24 18:51:40.748039,ADMIN
+738,Range,Sports,90.77,2026-05-24 18:51:40.748046,ADMIN
+739,Artist,Beauty,665.32,2026-05-24 18:51:40.748053,ADMIN
+740,Require,Beauty,611.01,2026-05-24 18:51:40.748061,ADMIN
+741,Power,Beauty,280.44,2026-05-24 18:51:40.748068,ADMIN
+742,Mouth,Toys,517.22,2026-05-24 18:51:40.748075,ADMIN
+743,Media,Home & Kitchen,435.61,2026-05-24 18:51:40.748082,ADMIN
+744,Son,Home & Kitchen,681.44,2026-05-24 18:51:40.748089,ADMIN
+745,They,Books,491.77,2026-05-24 18:51:40.748096,ADMIN
+746,Follow,Sports,315.34,2026-05-24 18:51:40.748104,ADMIN
+747,Price,Clothing,401.31,2026-05-24 18:51:40.748111,ADMIN
+748,Actually,Books,64.23,2026-05-24 18:51:40.748118,ADMIN
+749,Organization,Clothing,308.41,2026-05-24 18:51:40.748125,ADMIN
+750,Rock,Clothing,769.68,2026-05-24 18:51:40.748132,ADMIN
+751,Happy,Toys,262.96,2026-05-24 18:51:40.748139,ADMIN
+752,Religious,Home & Kitchen,128.78,2026-05-24 18:51:40.748146,ADMIN
+753,Technology,Beauty,749.54,2026-05-24 18:51:40.748153,ADMIN
+754,Reach,Clothing,137.89,2026-05-24 18:51:40.748160,ADMIN
+755,Reason,Books,706.63,2026-05-24 18:51:40.748167,ADMIN
+756,Bag,Books,563.14,2026-05-24 18:51:40.748174,ADMIN
+757,Rest,Sports,808.14,2026-05-24 18:51:40.748181,ADMIN
+758,Fact,Electronics,403.1,2026-05-24 18:51:40.748188,ADMIN
+759,Wear,Sports,51.88,2026-05-24 18:51:40.748195,ADMIN
+760,Left,Electronics,465.16,2026-05-24 18:51:40.748203,ADMIN
+761,Sign,Electronics,863.49,2026-05-24 18:51:40.748210,ADMIN
+762,Stand,Books,434.99,2026-05-24 18:51:40.748218,ADMIN
+763,Produce,Beauty,712.4,2026-05-24 18:51:40.748225,ADMIN
+764,Play,Beauty,296.62,2026-05-24 18:51:40.748232,ADMIN
+765,Role,Beauty,30.65,2026-05-24 18:51:40.748239,ADMIN
+766,Focus,Home & Kitchen,180.15,2026-05-24 18:51:40.748246,ADMIN
+767,City,Books,465.5,2026-05-24 18:51:40.748253,ADMIN
+768,Certainly,Sports,920.57,2026-05-24 18:51:40.748260,ADMIN
+769,Husband,Electronics,442.34,2026-05-24 18:51:40.748270,ADMIN
+770,Hot,Electronics,250.88,2026-05-24 18:51:40.748277,ADMIN
+771,Soon,Books,406.45,2026-05-24 18:51:40.748284,ADMIN
+772,Attack,Electronics,401.81,2026-05-24 18:51:40.748291,ADMIN
+773,Remain,Home & Kitchen,748.35,2026-05-24 18:51:40.748298,ADMIN
+774,Anything,Clothing,339.74,2026-05-24 18:51:40.748305,ADMIN
+775,American,Clothing,85.62,2026-05-24 18:51:40.748312,ADMIN
+776,Green,Sports,122.89,2026-05-24 18:51:40.748319,ADMIN
+777,Every,Books,201.96,2026-05-24 18:51:40.748326,ADMIN
+778,Better,Toys,355.88,2026-05-24 18:51:40.748333,ADMIN
+779,Hear,Sports,958.64,2026-05-24 18:51:40.748341,ADMIN
+780,Wear,Sports,816.89,2026-05-24 18:51:40.748348,ADMIN
+781,All,Clothing,111.78,2026-05-24 18:51:40.748355,ADMIN
+782,Seat,Home & Kitchen,205.3,2026-05-24 18:51:40.748362,ADMIN
+783,Light,Books,161.34,2026-05-24 18:51:40.748369,ADMIN
+784,Old,Toys,658.95,2026-05-24 18:51:40.748376,ADMIN
+785,We,Clothing,951.78,2026-05-24 18:51:40.748383,ADMIN
+786,Record,Sports,499.18,2026-05-24 18:51:40.748390,ADMIN
+787,Yard,Toys,568.1,2026-05-24 18:51:40.748398,ADMIN
+788,Accept,Books,454.42,2026-05-24 18:51:40.748405,ADMIN
+789,Do,Books,646.56,2026-05-24 18:51:40.748412,ADMIN
+790,Science,Books,329.98,2026-05-24 18:51:40.748419,ADMIN
+791,Red,Sports,322.98,2026-05-24 18:51:40.748427,ADMIN
+792,Young,Beauty,77.6,2026-05-24 18:51:40.748434,ADMIN
+793,Leave,Beauty,635.07,2026-05-24 18:51:40.748441,ADMIN
+794,Seven,Toys,281.93,2026-05-24 18:51:40.748448,ADMIN
+795,Our,Electronics,358.42,2026-05-24 18:51:40.748455,ADMIN
+796,Such,Electronics,317.3,2026-05-24 18:51:40.748462,ADMIN
+797,Training,Beauty,47.23,2026-05-24 18:51:40.748470,ADMIN
+798,Religious,Home & Kitchen,833.38,2026-05-24 18:51:40.748477,ADMIN
+799,Instead,Electronics,648.22,2026-05-24 18:51:40.748484,ADMIN
+800,Away,Toys,99.39,2026-05-24 18:51:40.748492,ADMIN
+801,Little,Books,512.0,2026-05-24 18:51:40.748499,ADMIN
+802,Break,Beauty,584.53,2026-05-24 18:51:40.748506,ADMIN
+803,Bill,Toys,741.53,2026-05-24 18:51:40.748514,ADMIN
+804,Beautiful,Electronics,455.24,2026-05-24 18:51:40.748521,ADMIN
+805,House,Toys,575.94,2026-05-24 18:51:40.748528,ADMIN
+806,Can,Clothing,328.31,2026-05-24 18:51:40.748535,ADMIN
+807,War,Beauty,506.35,2026-05-24 18:51:40.748542,ADMIN
+808,Experience,Electronics,456.02,2026-05-24 18:51:40.748549,ADMIN
+809,Threat,Toys,900.14,2026-05-24 18:51:40.748556,ADMIN
+810,Movement,Home & Kitchen,982.56,2026-05-24 18:51:40.748563,ADMIN
+811,Without,Electronics,509.5,2026-05-24 18:51:40.748570,ADMIN
+812,Current,Clothing,48.75,2026-05-24 18:51:40.748578,ADMIN
+813,His,Sports,443.38,2026-05-24 18:51:40.748585,ADMIN
+814,Collection,Beauty,528.83,2026-05-24 18:51:40.748592,ADMIN
+815,Cell,Books,167.16,2026-05-24 18:51:40.748599,ADMIN
+816,Sport,Home & Kitchen,918.76,2026-05-24 18:51:40.748606,ADMIN
+817,Focus,Beauty,414.68,2026-05-24 18:51:40.748613,ADMIN
+818,Beat,Home & Kitchen,682.11,2026-05-24 18:51:40.748621,ADMIN
+819,Sort,Electronics,791.33,2026-05-24 18:51:40.748628,ADMIN
+820,Accept,Sports,341.3,2026-05-24 18:51:40.748635,ADMIN
+821,Throw,Home & Kitchen,103.56,2026-05-24 18:51:40.748642,ADMIN
+822,Keep,Sports,392.7,2026-05-24 18:51:40.748650,ADMIN
+823,Despite,Home & Kitchen,726.5,2026-05-24 18:51:40.748657,ADMIN
+824,Begin,Sports,964.77,2026-05-24 18:51:40.748664,ADMIN
+825,Drive,Books,874.55,2026-05-24 18:51:40.748671,ADMIN
+826,Face,Home & Kitchen,90.69,2026-05-24 18:51:40.748678,ADMIN
+827,Tonight,Sports,150.01,2026-05-24 18:51:40.748686,ADMIN
+828,Single,Home & Kitchen,317.13,2026-05-24 18:51:40.748693,ADMIN
+829,Order,Sports,701.5,2026-05-24 18:51:40.748700,ADMIN
+830,Body,Beauty,137.66,2026-05-24 18:51:40.748707,ADMIN
+831,Raise,Sports,938.62,2026-05-24 18:51:40.748714,ADMIN
+832,Nature,Home & Kitchen,563.33,2026-05-24 18:51:40.748721,ADMIN
+833,Play,Sports,793.75,2026-05-24 18:51:40.748728,ADMIN
+834,Sing,Toys,136.52,2026-05-24 18:51:40.748736,ADMIN
+835,Serious,Sports,830.67,2026-05-24 18:51:40.748743,ADMIN
+836,Reduce,Sports,997.19,2026-05-24 18:51:40.748750,ADMIN
+837,Run,Books,102.52,2026-05-24 18:51:40.748757,ADMIN
+838,Say,Sports,429.17,2026-05-24 18:51:40.748764,ADMIN
+839,Drop,Home & Kitchen,28.05,2026-05-24 18:51:40.748771,ADMIN
+840,Wonder,Home & Kitchen,188.46,2026-05-24 18:51:40.748778,ADMIN
+841,While,Clothing,348.32,2026-05-24 18:51:40.748786,ADMIN
+842,Fast,Toys,491.41,2026-05-24 18:51:40.748793,ADMIN
+843,Face,Clothing,999.98,2026-05-24 18:51:40.748800,ADMIN
+844,Take,Clothing,86.39,2026-05-24 18:51:40.748807,ADMIN
+845,Because,Toys,790.24,2026-05-24 18:51:40.748814,ADMIN
+846,Level,Books,773.17,2026-05-24 18:51:40.748821,ADMIN
+847,Save,Toys,741.26,2026-05-24 18:51:40.748828,ADMIN
+848,Start,Books,47.37,2026-05-24 18:51:40.748835,ADMIN
+849,College,Home & Kitchen,877.63,2026-05-24 18:51:40.748842,ADMIN
+850,Assume,Books,139.74,2026-05-24 18:51:40.748850,ADMIN
+851,Run,Beauty,162.71,2026-05-24 18:51:40.748857,ADMIN
+852,With,Clothing,833.03,2026-05-24 18:51:40.748864,ADMIN
+853,Above,Toys,628.49,2026-05-24 18:51:40.748872,ADMIN
+854,Guess,Clothing,723.97,2026-05-24 18:51:40.748879,ADMIN
+855,Reach,Electronics,416.75,2026-05-24 18:51:40.748886,ADMIN
+856,Report,Sports,722.39,2026-05-24 18:51:40.748893,ADMIN
+857,Get,Beauty,614.49,2026-05-24 18:51:40.748900,ADMIN
+858,Central,Toys,751.05,2026-05-24 18:51:40.748907,ADMIN
+859,Loss,Beauty,241.66,2026-05-24 18:51:40.748914,ADMIN
+860,Pattern,Clothing,316.37,2026-05-24 18:51:40.748922,ADMIN
+861,Process,Toys,786.53,2026-05-24 18:51:40.748929,ADMIN
+862,Keep,Toys,202.08,2026-05-24 18:51:40.748936,ADMIN
+863,Huge,Sports,947.66,2026-05-24 18:51:40.748943,ADMIN
+864,Summer,Beauty,467.06,2026-05-24 18:51:40.748951,ADMIN
+865,Over,Home & Kitchen,780.34,2026-05-24 18:51:40.748958,ADMIN
+866,Wait,Books,532.19,2026-05-24 18:51:40.748965,ADMIN
+867,Include,Clothing,818.72,2026-05-24 18:51:40.748972,ADMIN
+868,Foot,Toys,608.62,2026-05-24 18:51:40.748980,ADMIN
+869,Already,Toys,257.5,2026-05-24 18:51:40.748987,ADMIN
+870,Back,Sports,485.78,2026-05-24 18:51:40.748994,ADMIN
+871,Meeting,Home & Kitchen,559.0,2026-05-24 18:51:40.749001,ADMIN
+872,Leave,Electronics,714.29,2026-05-24 18:51:40.749008,ADMIN
+873,Take,Books,852.65,2026-05-24 18:51:40.749016,ADMIN
+874,Matter,Home & Kitchen,93.04,2026-05-24 18:51:40.749023,ADMIN
+875,Cold,Clothing,280.06,2026-05-24 18:51:40.749030,ADMIN
+876,Attack,Books,155.88,2026-05-24 18:51:40.749037,ADMIN
+877,Appear,Beauty,100.8,2026-05-24 18:51:40.749044,ADMIN
+878,Candidate,Clothing,818.54,2026-05-24 18:51:40.749052,ADMIN
+879,Capital,Home & Kitchen,931.17,2026-05-24 18:51:40.749059,ADMIN
+880,Author,Beauty,62.72,2026-05-24 18:51:40.749066,ADMIN
+881,Lose,Books,380.22,2026-05-24 18:51:40.749073,ADMIN
+882,Strong,Beauty,994.58,2026-05-24 18:51:40.749080,ADMIN
+883,Important,Home & Kitchen,232.29,2026-05-24 18:51:40.749088,ADMIN
+884,These,Home & Kitchen,931.52,2026-05-24 18:51:40.749095,ADMIN
+885,Worker,Toys,717.56,2026-05-24 18:51:40.749102,ADMIN
+886,Girl,Home & Kitchen,793.47,2026-05-24 18:51:40.749109,ADMIN
+887,Reflect,Clothing,47.92,2026-05-24 18:51:40.749116,ADMIN
+888,Realize,Toys,477.73,2026-05-24 18:51:40.749123,ADMIN
+889,About,Toys,147.4,2026-05-24 18:51:40.749130,ADMIN
+890,Animal,Sports,474.42,2026-05-24 18:51:40.749138,ADMIN
+891,Team,Books,15.2,2026-05-24 18:51:40.749145,ADMIN
+892,Talk,Electronics,28.81,2026-05-24 18:51:40.749152,ADMIN
+893,Trade,Clothing,836.61,2026-05-24 18:51:40.749159,ADMIN
+894,Suddenly,Books,940.82,2026-05-24 18:51:40.749166,ADMIN
+895,Score,Books,532.49,2026-05-24 18:51:40.749174,ADMIN
+896,Painting,Electronics,778.41,2026-05-24 18:51:40.749181,ADMIN
+897,Memory,Clothing,308.14,2026-05-24 18:51:40.749189,ADMIN
+898,Reflect,Electronics,246.06,2026-05-24 18:51:40.749196,ADMIN
+899,Cell,Sports,795.96,2026-05-24 18:51:40.749203,ADMIN
+900,Throughout,Beauty,72.18,2026-05-24 18:51:40.749210,ADMIN
+901,Hair,Toys,906.1,2026-05-24 18:51:40.749217,ADMIN
+902,Create,Books,540.69,2026-05-24 18:51:40.749224,ADMIN
+903,To,Sports,520.22,2026-05-24 18:51:40.749231,ADMIN
+904,Involve,Clothing,721.36,2026-05-24 18:51:40.749238,ADMIN
+905,Wife,Home & Kitchen,434.95,2026-05-24 18:51:40.749245,ADMIN
+906,First,Books,359.29,2026-05-24 18:51:40.749253,ADMIN
+907,Seem,Books,422.4,2026-05-24 18:51:40.749260,ADMIN
+908,Key,Sports,671.53,2026-05-24 18:51:40.749267,ADMIN
+909,Interest,Books,974.91,2026-05-24 18:51:40.749274,ADMIN
+910,Hard,Electronics,953.87,2026-05-24 18:51:40.749281,ADMIN
+911,Require,Books,512.25,2026-05-24 18:51:40.749288,ADMIN
+912,Place,Books,558.61,2026-05-24 18:51:40.749296,ADMIN
+913,Partner,Beauty,874.6,2026-05-24 18:51:40.749303,ADMIN
+914,Know,Electronics,639.31,2026-05-24 18:51:40.749310,ADMIN
+915,College,Home & Kitchen,261.11,2026-05-24 18:51:40.749317,ADMIN
+916,Throughout,Electronics,363.52,2026-05-24 18:51:40.749325,ADMIN
+917,Practice,Electronics,351.35,2026-05-24 18:51:40.749333,ADMIN
+918,Section,Sports,660.53,2026-05-24 18:51:40.749340,ADMIN
+919,Red,Electronics,773.79,2026-05-24 18:51:40.749347,ADMIN
+920,Form,Sports,759.11,2026-05-24 18:51:40.749355,ADMIN
+921,Case,Clothing,53.89,2026-05-24 18:51:40.749362,ADMIN
+922,Feel,Books,345.16,2026-05-24 18:51:40.749369,ADMIN
+923,Wish,Sports,183.34,2026-05-24 18:51:40.749378,ADMIN
+924,Need,Toys,687.84,2026-05-24 18:51:40.749387,ADMIN
+925,Agent,Sports,483.75,2026-05-24 18:51:40.749395,ADMIN
+926,Read,Clothing,813.38,2026-05-24 18:51:40.749403,ADMIN
+927,While,Electronics,718.88,2026-05-24 18:51:40.749412,ADMIN
+928,General,Beauty,46.61,2026-05-24 18:51:40.749419,ADMIN
+929,My,Clothing,53.37,2026-05-24 18:51:40.749427,ADMIN
+930,Whatever,Clothing,886.93,2026-05-24 18:51:40.749434,ADMIN
+931,Bank,Home & Kitchen,934.04,2026-05-24 18:51:40.749442,ADMIN
+932,While,Books,404.24,2026-05-24 18:51:40.749449,ADMIN
+933,Usually,Toys,547.6,2026-05-24 18:51:40.749456,ADMIN
+934,Tell,Home & Kitchen,46.25,2026-05-24 18:51:40.749463,ADMIN
+935,Full,Sports,199.19,2026-05-24 18:51:40.749471,ADMIN
+936,Although,Home & Kitchen,863.52,2026-05-24 18:51:40.749478,ADMIN
+937,Recognize,Electronics,867.14,2026-05-24 18:51:40.749486,ADMIN
+938,Often,Home & Kitchen,280.48,2026-05-24 18:51:40.749493,ADMIN
+939,Cup,Toys,374.34,2026-05-24 18:51:40.749500,ADMIN
+940,Maintain,Beauty,745.87,2026-05-24 18:51:40.749507,ADMIN
+941,Without,Beauty,345.65,2026-05-24 18:51:40.749515,ADMIN
+942,Team,Clothing,501.24,2026-05-24 18:51:40.749522,ADMIN
+943,Sign,Beauty,373.67,2026-05-24 18:51:40.749529,ADMIN
+944,Language,Toys,524.08,2026-05-24 18:51:40.749536,ADMIN
+945,My,Toys,91.79,2026-05-24 18:51:40.749544,ADMIN
+946,Little,Beauty,88.14,2026-05-24 18:51:40.749551,ADMIN
+947,Tonight,Books,995.15,2026-05-24 18:51:40.749560,ADMIN
+948,All,Clothing,550.02,2026-05-24 18:51:40.749567,ADMIN
+949,Network,Home & Kitchen,111.57,2026-05-24 18:51:40.749574,ADMIN
+950,Take,Home & Kitchen,664.31,2026-05-24 18:51:40.749581,ADMIN
+951,Capital,Home & Kitchen,451.46,2026-05-24 18:51:40.749588,ADMIN
+952,More,Sports,431.85,2026-05-24 18:51:40.749596,ADMIN
+953,She,Sports,449.47,2026-05-24 18:51:40.749603,ADMIN
+954,Continue,Beauty,51.93,2026-05-24 18:51:40.749610,ADMIN
+955,Against,Toys,912.49,2026-05-24 18:51:40.749618,ADMIN
+956,Process,Books,998.17,2026-05-24 18:51:40.749625,ADMIN
+957,West,Home & Kitchen,643.07,2026-05-24 18:51:40.749633,ADMIN
+958,Authority,Toys,948.43,2026-05-24 18:51:40.749640,ADMIN
+959,Nature,Electronics,674.47,2026-05-24 18:51:40.749647,ADMIN
+960,Car,Beauty,369.68,2026-05-24 18:51:40.749655,ADMIN
+961,Trade,Toys,752.4,2026-05-24 18:51:40.749662,ADMIN
+962,Resource,Clothing,953.26,2026-05-24 18:51:40.749670,ADMIN
+963,Suggest,Clothing,850.18,2026-05-24 18:51:40.749677,ADMIN
+964,Those,Sports,783.5,2026-05-24 18:51:40.749684,ADMIN
+965,Under,Electronics,134.97,2026-05-24 18:51:40.749691,ADMIN
+966,Consumer,Clothing,780.73,2026-05-24 18:51:40.749698,ADMIN
+967,Can,Home & Kitchen,368.53,2026-05-24 18:51:40.749706,ADMIN
+968,Sure,Books,42.06,2026-05-24 18:51:40.749713,ADMIN
+969,Consider,Clothing,682.27,2026-05-24 18:51:40.749721,ADMIN
+970,Care,Home & Kitchen,378.29,2026-05-24 18:51:40.749728,ADMIN
+971,Light,Toys,86.12,2026-05-24 18:51:40.749735,ADMIN
+972,Relationship,Clothing,534.17,2026-05-24 18:51:40.749742,ADMIN
+973,Under,Beauty,321.24,2026-05-24 18:51:40.749749,ADMIN
+974,Local,Home & Kitchen,257.12,2026-05-24 18:51:40.749758,ADMIN
+975,Summer,Electronics,35.65,2026-05-24 18:51:40.749765,ADMIN
+976,Usually,Clothing,504.05,2026-05-24 18:51:40.749773,ADMIN
+977,Government,Beauty,914.41,2026-05-24 18:51:40.749780,ADMIN
+978,Situation,Electronics,269.16,2026-05-24 18:51:40.749787,ADMIN
+979,Consider,Home & Kitchen,707.0,2026-05-24 18:51:40.749794,ADMIN
+980,Support,Clothing,996.4,2026-05-24 18:51:40.749802,ADMIN
+981,Hand,Home & Kitchen,697.04,2026-05-24 18:51:40.749809,ADMIN
+982,Accept,Beauty,208.18,2026-05-24 18:51:40.749816,ADMIN
+983,Former,Clothing,854.3,2026-05-24 18:51:40.749823,ADMIN
+984,Run,Beauty,180.93,2026-05-24 18:51:40.749831,ADMIN
+985,Near,Sports,450.66,2026-05-24 18:51:40.749838,ADMIN
+986,A,Electronics,812.41,2026-05-24 18:51:40.749846,ADMIN
+987,Low,Toys,986.71,2026-05-24 18:51:40.749853,ADMIN
+988,Guess,Sports,353.95,2026-05-24 18:51:40.749860,ADMIN
+989,Fact,Electronics,554.5,2026-05-24 18:51:40.749867,ADMIN
+990,Table,Home & Kitchen,892.42,2026-05-24 18:51:40.749875,ADMIN
+991,Wrong,Toys,165.93,2026-05-24 18:51:40.749882,ADMIN
+992,Like,Sports,928.05,2026-05-24 18:51:40.749889,ADMIN
+993,Moment,Sports,182.35,2026-05-24 18:51:40.749896,ADMIN
+994,Behavior,Home & Kitchen,513.67,2026-05-24 18:51:40.749904,ADMIN
+995,Other,Electronics,985.28,2026-05-24 18:51:40.749911,ADMIN
+996,Little,Toys,147.49,2026-05-24 18:51:40.749918,ADMIN
+997,Ready,Toys,499.08,2026-05-24 18:51:40.749926,ADMIN
+998,Common,Home & Kitchen,558.48,2026-05-24 18:51:40.749933,ADMIN
+999,Pick,Home & Kitchen,472.73,2026-05-24 18:51:40.749940,ADMIN
+1000,Detail,Books,138.47,2026-05-24 18:51:40.749948,ADMIN

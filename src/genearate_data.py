@@ -38,7 +38,9 @@ def genearte_products(num_products=1000):
             "product_id":product_id,
             "product_name":fake.word().capitalize(),
             "category":random.choice(categories),
-            "price":round(random.uniform(10,1000),2)
+            "price":round(random.uniform(10,1000),2),
+            "added_date":datetime.now(),
+            "added_by":'ADMIN'
         })
     return pd.DataFrame(products);
 
@@ -50,7 +52,9 @@ def genearte_orders(num_orders=100000,num_customers=100000):
             "order_id":order_id,
             "customer_id":np.random.randint(1,num_customers),
 	        "order_date":fake.date_between(start_date='-2y',end_date="today"),
-            "amount":round(random.uniform(10,1000),2)
+            "amount":round(random.uniform(10,1000),2),
+            "added_date":datetime.now(),
+            "added_by":'ADMIN'
         })
     return pd.DataFrame(orders);
 """
