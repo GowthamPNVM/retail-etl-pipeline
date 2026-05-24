@@ -1,6 +1,7 @@
 from extract import extract_csv
 from utils import setup_logger
 from transform import transformCustomersData,transformOrdersData,transformProductsData,transformSalesData
+from load import createConnection,load_data
 
 logger =setup_logger()
 
@@ -29,6 +30,22 @@ def main():
         logger.info(f"Transformed Sales Data :{len(transform_sales_df )} rows")
         logger.info("Transform Data Ended")
         print("Transformation Data Ended")
+        
+        logger.info(f"Creating the DB Connection")
+        connection = createConnection()
+        print("Loading of Transformed Data Started")
+        logger.info(f"Loading of Data Started")
+        load_data(transformed_customers_df,"customers",connection)
+        logger.info(f"Loaded Customers Data :{len(transformed_customers_df)} rows")
+        load_data(transformed_products_df,"products",connection)
+        logger.info(f"Loaded Products Data :{len(transformed_products_df)} rows")
+        load_data(transformed_orders_df,"orders",connection)
+        logger.info(f"Loaded Orders Data :{len(transformed_orders_df)} rows")
+        load_data(transform_sales_df,"sales",connection)
+        logger.info(f"Loaded Sales Data :{len(transform_sales_df )} rows")
+        logger.info("Loading of Data Ended")
+        print("Loading of Transformed Data Ended")
+        
         print("ETL Pipeline Ended")
 
     except Exception as e:

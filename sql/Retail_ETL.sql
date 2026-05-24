@@ -22,7 +22,7 @@ CREATE TABLE IF NOT EXISTS products(
     product_id int(11) Primary key AUTO_INCREMENT,
     product_name varchar(50) NOT NULL,
     category varchar(25),
-    price int(10) NOT NULL
+    price decimal(20,6) NOT NULL
 );
  CREATE TABLE IF NOT EXISTS orders(
     order_id int(11) primary key AUTO_INCREMENT,
